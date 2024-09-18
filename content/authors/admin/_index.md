@@ -46,12 +46,6 @@ interests:
 education:
   - area: PhD Music Theory
     institution: Columbia University
-    date_end: 2015
-    summary: |
-      Dissertation on the history of the concept of the cadence from antiquity through the romantic era.
-    button:
-      text: 'Read Dissertation'
-      url: 'https://doi.org/10.7916/D8MC8Z58'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
