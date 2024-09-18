@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Max Planck Institute for Empirical Aesthetics
+    url: https://www.aesthetics.mpg.de/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:caleb.mutch@ae.mpg.de'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/cmm2209
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - History of Music Theory
+  - Digital Humanities
+  - Music Analysis
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Caleb Mutch is a Research Scientist at the Max Planck Institute for Empirical Aesthetics. He has been a Postdoctoral Research Fellow and Visiting Assistant Professor at Indiana University, and prior to that he served as a Lecturer at Columbia University, where he also completed a Ph.D. in music theory. He studies topics including the history of music theory from antiquity to the romantic era, formal analysis of baroque and classical music, and South African popular music.
