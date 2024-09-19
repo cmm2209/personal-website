@@ -53,32 +53,32 @@ education:
     button:
       text: 'Read Dissertation'
       url: 'https://doi.org/10.7916/D8MC8Z58'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Advanced Certificate  Medieval and Renaissance Studies
+    institution: Columbia University
+    date_start: 2008-09-01
+    date_end: 2015-05-20
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - Latin Paleography
+      - Medieval Parisian Architecture
+      - Aristotle's Poetics (in Greek)  
+  - area: MPhil  Music Theory
+    institution: Columbia University
+    date_start: 2010-02-11
+    date_end: 2011-05-18
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit    
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA  Music Theory
+    institution: Columbia University
+    date_start: 2008-09-01
+    date_end: 2010-02-10
     summary: |
       GPA: 3.4/4.0
       
@@ -86,6 +86,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BMus Music Scholarship
+    institution: University of British Columbia
+    date_start: 2003-09-01
+    date_end: 2008-05-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
