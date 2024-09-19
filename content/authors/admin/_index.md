@@ -58,8 +58,6 @@ education:
     date_start: 2008-09-01
     date_end: 2015-05-20
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - Latin Paleography
       - Medieval Parisian Architecture
@@ -69,34 +67,25 @@ education:
     date_start: 2010-02-11
     date_end: 2011-05-18
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Schenkerian Analysis III (with William Rothstein)
+      - Athenian Rhetoric and Oratory (in Greek)
+      - Musicology Seminar on Medieval Music
   - area: MA  Music Theory
     institution: Columbia University
     date_start: 2008-09-01
     date_end: 2010-02-10
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Schenkerian Analysis II (with Poundie Burstein)
+      - History of Music Theory
+      - Formal Analysis
   - area: BMus Music Scholarship
     institution: University of British Columbia
     date_start: 2003-09-01
     date_end: 2008-05-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit    
+      Graduated at top of class  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
