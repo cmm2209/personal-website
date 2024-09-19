@@ -86,6 +86,7 @@ education:
     date_end: 2008-05-31
     summary: |
       Graduated at top of class  
+
 work:
   - position: Research Scientist
     company_name: Max Planck Institute for Empirical Aesthetics
@@ -117,7 +118,6 @@ work:
     company_logo: ''
     date_start: 2015-09-01
     date_end: 2017-05-31    
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -178,7 +178,6 @@ awards:
     awarder: Rare Books School
     icon: ''
     summary: |
-
 ---
 
 ## About Me
