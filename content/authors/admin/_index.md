@@ -67,27 +67,27 @@ education:
     date_end: 2015-05-20
     summary: |      
       Courses included:
-      - Latin Paleography
-      - Medieval Parisian Architecture
-      - Aristotle's Poetics (in Greek)    
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit    
   - area: MPhil  Music Theory
     institution: Columbia University
     date_start: 2010-02-11
     date_end: 2011-05-18
     summary: |      
       Courses included:
-      - Schenkerian Analysis III (with William Rothstein)
-      - Athenian Rhetoric and Oratory (in Greek)
-      - Musicology Seminar on Medieval Music
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MA  Music Theory
     institution: Columbia University
     date_start: 2008-09-01
     date_end: 2010-02-10
     summary: |      
       Courses included:
-      - Schenkerian Analysis II (with Poundie Burstein)
-      - History of Music Theory
-      - Formal Analysis
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BMus Music Scholarship
     institution: University of British Columbia
     date_start: 2003-09-01
