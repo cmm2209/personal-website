@@ -153,20 +153,6 @@ skills:
         percent: 80
         icon: custom/hand-spock
 
-languages:
-  - name: English
-    percent: 100
-  - name: Latin
-    percent: 75
-  - name: German
-    percent: 25
-  - name: Ancient Greek
-    percent: 50
-  - name: French
-    percent: 33
-  - name: Italian
-    percent: 20 
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
