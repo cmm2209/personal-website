@@ -87,11 +87,11 @@ education:
     summary: |
       Graduated at top of class  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Scientist
+    company_name: Max Planck Institute for Empirical Aesthetics
+    company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022
     date_end: ''
     summary: |2-
       Responsibilities include:
