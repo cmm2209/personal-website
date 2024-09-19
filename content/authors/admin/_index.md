@@ -91,7 +91,7 @@ work:
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2022-09-01
+    date_start: '2022'
     date_end: ''
   - position: Backend Software Engineer
     company_name: X
