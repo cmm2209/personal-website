@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4908-4930
 
 interests:
   - History of Music Theory
@@ -52,37 +52,39 @@ interests:
   - Music Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD  Music Theory
+    institution: Columbia University
+    date_start: 2011-05-19
+    date_end: 2015-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation "Studies in the History of the Cadence," examining the development of that concept from antiquity through the romantic period. Dissertation sponsors: David E. Cohen and Benjamin Steege.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: 'Read Dissertation'
+      url: 'https://doi.org/10.7916/D8MC8Z58'
+   - area: Advanced Certificate  Medieval and Renaissance Studies
+    institution: Columbia University
+    date_start: 2008-09-01
+    date_end: 2015-05-20
+    summary: |      
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MPhil  Music Theory
+    institution: Columbia University
+    date_start: 2010-02-11
+    date_end: 2011-05-18
+    summary: |      
+
+  - area: MA  Music Theory
+    institution: Columbia University
+    date_start: 2008-09-01
+    date_end: 2010-02-10
+    summary: |      
+
+  - area: BMus Music Scholarship
+    institution: University of British Columbia
+    date_start: 2003-09-01
+    date_end: 2008-5-31
     summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
