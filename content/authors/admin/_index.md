@@ -127,7 +127,7 @@ skills:
       - name: TEI XML encoding
         description: ''
         percent: 100
-        icon: file-code
+        icon: custom/file-code
       - name: Javascript
         description: ''
         percent: 80
@@ -135,7 +135,7 @@ skills:
       - name: MongoDB
         description: ''
         percent: 40
-        icon: custom/database-mongo-db
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -155,17 +155,17 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    
   - name: Latin
-    percent: 75
+   
   - name: German
-    percent: 25
+   
   - name: Ancient Greek
-    percent: 50
+   
   - name: French
-    percent: 33
+    
   - name: Italian
-    percent: 20 
+    
 
 # Awards.
 #   Add/remove as many awards below as you like.
