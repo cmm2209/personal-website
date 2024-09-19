@@ -91,32 +91,32 @@ work:
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: "2022"
+    date_start: 2022-09-01
     date_end: ''
   - position: Postdoctoral Research Fellow
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2206-12-01
+    date_end: 2022-08-31
   - position: Visiting Assistant Professor
     company_name: Jacobs School of Music, Indiana University
     company_url: 'https://music.indiana.edu/index.html'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31  
+    date_start: 2019-08-01
+    date_end: 2020-05-31  
   - position: Postdoctoral Resident Scholar
     company_name: Jacobs School of Music, Indiana University
     company_url: 'https://music.indiana.edu/index.html'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31   
+    date_start: 2017-08-01
+    date_end: 2019-05-31   
   - position: Core Lecturer in the Humanities
     company_name: Columbia University
     company_url: 'https://columbia.edu'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31    
+    date_start: 2015-09-01
+    date_end: 2017-05-31    
 
 
 # Skills
