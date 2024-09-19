@@ -135,7 +135,7 @@ skills:
       - name: MongoDB
         description: ''
         percent: 40
-        icon: database-mongo-db
+        icon: custom/database-mongo-db
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -147,11 +147,11 @@ skills:
       - name: Cooking
         description: ''
         percent: 100
-        icon: carrot
+        icon: custom/carrot
       - name: Science Fiction
         description: ''
         percent: 80
-        icon: hand-spock
+        icon: custom/hand-spock
 
 languages:
   - name: English
