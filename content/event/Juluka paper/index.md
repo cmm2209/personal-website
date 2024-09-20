@@ -12,7 +12,7 @@ abstract: 'This paper illuminates the musical activism of Juluka, a South Africa
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "Summer 2021"
+date: '2021-07-01T12:00:00Z'
 # date_end: '2021-08-31T18:45:00Z'
 all_day: false
 
