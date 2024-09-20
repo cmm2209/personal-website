@@ -32,27 +32,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a music theorist working at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. 
         
-        Please reach out to collaborate 😃
+        I study the history of musical thought, focusing on the overlooked histories of musical concepts like the cadence, the triad, and form. My work on textual criticism relies heavily on Digital Humanities approaches to analyze and represent manuscripts, and I am the digital director of the <a href="https://neubauercollegium.uchicago.edu/research/thinking-music">Thinking Music: Global Sources for the History of Music Theory</a> project.
+
+        
+        
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
