@@ -12,7 +12,7 @@ address:
   postcode: '32202'
   country: United States
 
-summary: An analysis of the interaction of production and formal structure in two songs by Taylor Swift.
+summary: An analysis of the interaction of song production and formal structure.
 abstract: 'This paper examines two recent Swift songs, “the lakes” (2020) and “You’re on your Own, Kid” (2022), each of which has been released in two versions that differ in their approaches to the chorus section. I illustrate how the alternate versions of the two songs follow the conventions of verse, prechorus, and chorus sections. I then turn to the album version of each song to demonstrate how changes in production have altered its formal implications by adding to the chorus a prechorus-like sense of intensification and drive towards a climax. Attending to how Swift signals and subverts formal organization in her choruses also offers new insight into how the songs’ formal design adds depth to the meaning of their lyrics.'
 
 # Talk start and end times.
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Youtube**](https://www.youtube.com/watch?v=y8tF0yRl8-w)'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
