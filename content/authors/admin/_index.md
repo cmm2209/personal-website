@@ -1,9 +1,9 @@
 ---
 # Display name
-title: ''
+title: 'Caleb Mutch'
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Caleb Mutch'
 
 # Full name (for SEO)
 first_name: Caleb
