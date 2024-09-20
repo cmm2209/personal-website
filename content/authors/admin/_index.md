@@ -53,39 +53,39 @@ education:
     button:
       text: 'Read Dissertation'
       url: 'https://doi.org/10.7916/D8MC8Z58'
-  - area: Advanced Certificate  Medieval and Renaissance Studies
+  - area: Certificate  Medieval and Renaissance Studies
     institution: Columbia University
     date_start: 2008-09-01
     date_end: 2015-05-20
-    summary: |
-      Courses included:
-      - Latin Paleography
-      - Medieval Parisian Architecture
-      - Aristotle's Poetics (in Greek)  
+    # summary: |
+    #  Courses included:
+    #  - Latin Paleography
+    #  - Medieval Parisian Architecture
+    #  - Aristotle's Poetics (in Greek)  
   - area: MPhil  Music Theory
     institution: Columbia University
     date_start: 2010-02-11
     date_end: 2011-05-18
-    summary: |
-      Courses included:
-      - Schenkerian Analysis III (with William Rothstein)
-      - Athenian Rhetoric and Oratory (in Greek)
-      - Musicology Seminar on Medieval Music
+    # summary: |
+    #  Courses included:
+    #  - Schenkerian Analysis III (with William Rothstein)
+    #  - Athenian Rhetoric and Oratory (in Greek)
+    #  - Musicology Seminar on Medieval Music
   - area: MA  Music Theory
     institution: Columbia University
     date_start: 2008-09-01
     date_end: 2010-02-10
-    summary: |
-      Courses included:
-      - Schenkerian Analysis II (with Poundie Burstein)
-      - History of Music Theory
-      - Formal Analysis
+    # summary: |
+    #  Courses included:
+    #  - Schenkerian Analysis II (with Poundie Burstein)
+    #  - History of Music Theory
+    #  - Formal Analysis
   - area: BMus Music Scholarship
     institution: University of British Columbia
     date_start: 2003-09-01
     date_end: 2008-05-31
-    summary: |
-      Graduated at top of class  
+    # summary: |
+    #  Graduated at top of class  
 
 work:
   - position: Research Scientist
@@ -132,7 +132,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: MongoDB
+      - name: Mongo DB
         description: ''
         percent: 40
         icon: circle-stack
