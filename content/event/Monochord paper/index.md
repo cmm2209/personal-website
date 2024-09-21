@@ -2,7 +2,7 @@
 title: 'Against the Monochord: Numbers, String Lengths, and the History of Music Theory'
 
 event: American Musicological Society annual conference
-event_url: https://cdn.ymaws.com/ams-net.site-ym.com/resource/resmgr/files/virtual2020/final_guides/ams-smt_program-guide_2020-1.pdf
+event_url: ''
 
 location: Online
 address: ''

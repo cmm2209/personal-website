@@ -2,7 +2,7 @@
 title: '‘Something Else is Possible’: Transcultural Collaboration as Anti-Apartheid Activism in the Music of Juluka'
 
 event: Music Theory Society of New York State annual conference
-event_url: https://static1.squarespace.com/static/66743e209aed1f6a0af133f0/t/6682c0e982000b61a7201afb/1719845097855/MTSNYS_2021_Abstracts.pdf
+event_url: ''
 
 location: Online
 address: ''
