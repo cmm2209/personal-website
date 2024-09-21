@@ -1,19 +1,24 @@
 ---
-title: 'A Radical Theory: Lippius’s Misunderstood Theory of Roots'
+title: 'The Triad in Dispute: Genre and Audience in the Writings of Johannes Lippius'
 
-event: Music Theory Midwest annual conference
+event: Society for Music Theory annual conference
 event_url: ''
 
-location: Online
-address: ''
+location: Arlington, Va.
+# address:
+ # street: 225 E Coastline Dr
+ # city: Jacksonville
+ # region: FL
+ # postcode: '32202'
+ # country: United States
 
-summary: A new reading of the role of speculative mathematics in the origins of the theory of the triad.
-abstract: 'Johannes Lippius is widely acclaimed as the first author to articulate fully the modern concept of the musical triad.  Lippius speaks of the triad’s fundamental pitch, which maintains its status even when not present in the lowest voice.  He also he uses the term “root” (radix), but not for that fundamental pitch: curiously, Lippius’s notion of the triadic root scarcely overlaps at all with our modern idea.  Attending to the complexities of Lippius’s conception of the root, I demonstrate its hitherto overlooked relationship to Nicholas of Cusa’s notion of the “unitary root” in his idiosyncratic and influential fusion of Trinitarian doctrine and Neopythagorean numerology.  I reveal that for Lippius the root is the first unfolding of the principle of number itself and thus is a powerful expression of music’s relationship to the divine.'
+summary: A new reading of the role of educational institutions in the origins of the theory of the triad.
+abstract: 'Johannes Lippius is best known for his path-breaking articulation of the concept of the triad. The reception of this innovation chiefly relies upon his treatise <i>Synopsis novae musicae</i>, despite the fact that Lippius had already published many of this book’s notable points in earlier texts, which he called “disputations on music.” Yet the genre-specific peculiarities of the <i>disputatio</i> have been overlooked. By situating his writings within the university system of the day and the formalized genres in which he wrote, this paper reveals an important instance of how music theory has been shaped by the demands of audience and genre.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-03T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+date: '2017-11-02T00:00:00Z'
+#date_end: '2024-11-08T18:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
