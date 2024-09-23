@@ -29,7 +29,7 @@ featured: false
 
 image:
   caption: 'Image credit: [**Wikimedia**](https://commons.wikimedia.org/wiki/File:Gaffuri1.jpg)'
-  focal_point: Right
+  focal_point: Center
 
 #links:
 #  - icon: twitter

@@ -29,7 +29,7 @@ featured: false
 
 image:
   caption: 'Image credit: [**Münchner DigitalisierungsZentrum**](https://www.digitale-sammlungen.de/en/view/bsb00089436?page=,1)'
-  focal_point: Right
+  focal_point: Center
 
 #links:
 #  - icon: twitter

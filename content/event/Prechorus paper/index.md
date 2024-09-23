@@ -34,7 +34,7 @@ featured: false
 
 image:
   caption: 'Image credit: [**Youtube**](https://www.youtube.com/watch?v=y8tF0yRl8-w)'
-  focal_point: Right
+  focal_point: Center
 
 #links:
 #  - icon: twitter
