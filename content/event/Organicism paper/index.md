@@ -1,10 +1,10 @@
 ---
-title: 'The Triad in Dispute: Genre and Audience in the Writings of Johannes Lippius'
+title: 'Comparing Bodies: Organicism and the Rise of Romantic <i>Formenlehre</i>'
 
-event: Society for Music Theory annual conference
+event: Music Theory Midwest annual conference
 event_url: ''
 
-location: Arlington, VA
+location: Rochester, MI.
 # address:
  # street: 225 E Coastline Dr
  # city: Jacksonville
@@ -12,12 +12,12 @@ location: Arlington, VA
  # postcode: '32202'
  # country: United States
 
-summary: A new reading of the role of educational institutions in the origins of the theory of the triad.
-abstract: 'Johannes Lippius is best known for his path-breaking articulation of the concept of the triad. The reception of this innovation chiefly relies upon his treatise <i>Synopsis novae musicae</i>, despite the fact that Lippius had already published many of this book’s notable points in earlier texts, which he called “disputations on music.” Yet the genre-specific peculiarities of the <i>disputatio</i> have been overlooked. By situating his writings within the university system of the day and the formalized genres in which he wrote, this paper reveals an important instance of how music theory has been shaped by the demands of audience and genre.'
+summary: An uncovering of the parallels between Romantic-era biological science and musical form.
+abstract: 'The rise of organicist metaphors and the development of formal theories are two striking early-nineteenth century developments, and although they have received scholarly attention, the significance of their intermingling has been overlooked. By examining the writings of A.B. Marx and his predecessors, I find that methods of considering musical form have important parallels with developments in biology, parallels which newly illuminate how Romantic <i>Formenlehre</i> arose from a reconceptualization of animal and musical bodies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2017-11-02T00:00:00Z'
+date: '2015-05-08T00:00:00Z'
 #date_end: '2024-11-08T18:45:00Z'
 all_day: false
 
