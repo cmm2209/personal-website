@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Münchner DigitalisierungsZentrum**](https://www.digitale-sammlungen.de/en/view/bsb00089436?page=,1)'
+  caption: ''
   focal_point: Right
 
 #links:

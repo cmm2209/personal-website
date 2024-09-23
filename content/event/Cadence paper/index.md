@@ -1,10 +1,10 @@
 ---
-title: 'The Triad in Dispute: Genre and Audience in the Writings of Johannes Lippius'
+title: 'Cadence Systematized: Printz's Doctrine of the _Clausula formalis_'
 
 event: Society for Music Theory annual conference
 event_url: ''
 
-location: Arlington, VA
+location: Charlotte, NC
 # address:
  # street: 225 E Coastline Dr
  # city: Jacksonville
@@ -12,8 +12,8 @@ location: Arlington, VA
  # postcode: '32202'
  # country: United States
 
-summary: A new reading of the role of educational institutions in the origins of the theory of the triad.
-abstract: 'Johannes Lippius is best known for his path-breaking articulation of the concept of the triad. The reception of this innovation chiefly relies upon his treatise _Synopsis novae musicae_, despite the fact that Lippius had already published many of this book’s notable points in earlier texts, which he called “disputations on music.” Yet the genre-specific peculiarities of the _disputatio_ have been overlooked. By situating his writings within the university system of the day and the formalized genres in which he wrote, this paper reveals an important instance of how music theory has been shaped by the demands of audience and genre.'
+summary: An introduction to Printz's fascinating, baroquely-complex theory of the cadence. 
+abstract: 'One of W. C. Printz's (1641-1717) most significant and idiosyncratic innovations is his naming and describing of an unprecedently large number of types of cadence, or _clausula formalis_. Equally noteworthy is the way in which these various categories are logically organized. In this paper I first demonstrate the dependence of the doctrine’s categorial organization on the influential pedagogical theories of Petrus Ramus. I then survey his seventeen categories of _clausula formalis_, showing that they comprise a rich diversity of cadence types, many of which would be unthinkingly disregarded by modern theoretical judgments. The significance of this wide variety of cadences, and its accompanying range of degrees of closure, becomes apparent when I consider them in combination with the treatise’s incipient theory of form.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,7 @@ date: '2017-11-02T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2013-10-31T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Münchner DigitalisierungsZentrum**](https://www.digitale-sammlungen.de/en/view/bsb00089436?page=,1)'
+  caption: 'Image credit: [**Münchner DigitalisierungsZentrum**](https://www.digitale-sammlungen.de/en/view/bsb00045152)'
   focal_point: Right
 
 #links:
