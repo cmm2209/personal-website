@@ -1,5 +1,5 @@
 ---
-title: 'Comparing Bodies: Organicism and the Rise of Romantic <i>Formenlehre</i>'
+title: 'Comparing Bodies: Organicism and the Rise of Romantic _Formenlehre_'
 
 event: Music Theory Midwest annual conference
 event_url: ''
@@ -13,7 +13,7 @@ location: Rochester, MI.
  # country: United States
 
 summary: An uncovering of the parallels between Romantic-era biological science and musical form.
-abstract: 'The rise of organicist metaphors and the development of formal theories are two striking early-nineteenth century developments, and although they have received scholarly attention, the significance of their intermingling has been overlooked. By examining the writings of A.B. Marx and his predecessors, I find that methods of considering musical form have important parallels with developments in biology, parallels which newly illuminate how Romantic <i>Formenlehre</i> arose from a reconceptualization of animal and musical bodies.'
+abstract: 'The rise of organicist metaphors and the development of formal theories are two striking early-nineteenth century developments, and although they have received scholarly attention, the significance of their intermingling has been overlooked. By examining the writings of A.B. Marx and his predecessors, I find that methods of considering musical form have important parallels with developments in biology, parallels which newly illuminate how Romantic _Formenlehre_ arose from a reconceptualization of animal and musical bodies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -8,7 +8,7 @@ location: Online
 address: ''
 
 summary: A riposte against the value of the monochord as an "instrument of music theory."
-abstract: 'This paper argues that the importance of one instrument, the monochord, has been inflated for generations, and that this inflation has distorted our interpretations of music theory from the premodern world. I focus on three pre-modern texts which scholars of the past two generations have misinterpreted due to monochord-fueled presumptions: Boethius’s <i>De institutione musica</i>, the anonymous <i>Alia musica</i>, and Marchetto of Padua’s <i>Lucidarium</i>. Thus, by denying the temptation to familiarize pre-modern texts by reading string lengths into their theories we are better able to understand their authors’ arguments and the multifarious roles that number and music played in their worlds.'
+abstract: 'This paper argues that the importance of one instrument, the monochord, has been inflated for generations, and that this inflation has distorted our interpretations of music theory from the premodern world. I focus on three pre-modern texts which scholars of the past two generations have misinterpreted due to monochord-fueled presumptions: Boethius’s _De institutione musica_, the anonymous _Alia musica_, and Marchetto of Padua’s _Lucidarium_. Thus, by denying the temptation to familiarize pre-modern texts by reading string lengths into their theories we are better able to understand their authors’ arguments and the multifarious roles that number and music played in their worlds.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
