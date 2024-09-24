@@ -5,8 +5,9 @@ external_link: ''
 tags: []
 reading_time: false
 share: false
+summary: 'Phylogenetic analysis of a group of 50 medieval manuscripts'
 ---
 
-Phylogenetic analysis of the manuscript tradition of Bartholomew of Messina's Latin translation of pseudo-Aristotle's _Problemata_.
+More about the project
 
 <!--more-->
