@@ -13,9 +13,9 @@ cascade:
 sections:
   - block: markdown
     content:
-      title: Courses taught
-      subtitle: INSTRUCTOR OF RECORD - GRADUATE SEMINARS
-      text: Indiana University
+      title: Courses taught 
+      text: **INSTRUCTOR OF RECORD - GRADUATE SEMINARS**
+      Indiana University
       - Baroque and Classical Musical Form
       - Renaissance Counterpoint
       - History of Music Theory I
@@ -26,8 +26,8 @@ sections:
       University of British Columbia
       - Topics in the History of Music Theory
 
-      subtitle: INSTRUCTOR OF RECORD - UNDERGRADUATE COURSES
-      text: Columbia University
+      **INSTRUCTOR OF RECORD - UNDERGRADUATE COURSES**
+      Columbia University
       - Music Humanities
       - Theory II
       - Theory I
