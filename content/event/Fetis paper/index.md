@@ -1,5 +1,5 @@
 ---
-title: '‘<em>L’art ne progresse pas, mais il se transforme</em>’: Reconsidering Teleology in Fétis’s Historiography'
+title: '‘{{<  myshortcode `<i>L’art ne progresse pas, mais il se transforme</i>` >}}’: Reconsidering Teleology in Fétis’s Historiography'
 
 event: Music Theory Society of New York State annual conference
 event_url: ''
@@ -7,8 +7,8 @@ event_url: ''
 location: Stony Brook, NY
 address: ''
 
-summary: An analysis of Fétis’s concept of <em>tonalité</em> and its relation to cultural relativism.
-abstract: 'Scholars who research F.J. Fétis and his concept of <em>tonalité</em> have made a strong case for his dependence on the ideas of Kant, the early German Idealists, and Hegel. In doing so they emphasize the progress-oriented aspects of Fétis’s narrative, but consequently struggle to account for his tenet that “art does not progress, but transforms itself.” This paper explains these non-teleological aspects of Fétis’s perspective by turning to J. G. von Herder, an important forefather of anthropology. I demonstrate that Herder’s views on human history and progress foreshadow, and almost certainly influenced, those of Fétis, and I conclude by drawing upon one of Fétis’s late works to suggest that he may have attempted to reconcile these two threads of his narrative.'
+summary: An analysis of Fétis’s concept of <i>tonalité</i> and its relation to cultural relativism.
+abstract: 'Scholars who research F.J. Fétis and his concept of <i>tonalité</i> have made a strong case for his dependence on the ideas of Kant, the early German Idealists, and Hegel. In doing so they emphasize the progress-oriented aspects of Fétis’s narrative, but consequently struggle to account for his tenet that “art does not progress, but transforms itself.” This paper explains these non-teleological aspects of Fétis’s perspective by turning to J. G. von Herder, an important forefather of anthropology. I demonstrate that Herder’s views on human history and progress foreshadow, and almost certainly influenced, those of Fétis, and I conclude by drawing upon one of Fétis’s late works to suggest that he may have attempted to reconcile these two threads of his narrative.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
