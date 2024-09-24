@@ -1,7 +1,6 @@
 ---
 title: OCHRE
-date_start: 2024-07-01
-date_end: ''
+date: 2024-07-01
 external_link: ''
 tags: []
 ---
