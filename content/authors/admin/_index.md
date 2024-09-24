@@ -3,7 +3,7 @@
 title: 'Caleb Mutch'
 
 # Name pronunciation (optional)
-name_pronunciation: 'Caleb Mutch'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Caleb
