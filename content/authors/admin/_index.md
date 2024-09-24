@@ -147,11 +147,11 @@ skills:
       - name: Cooking
         description: ''
         percent: 100
-        icon: custom/carrot
-      - name: Science Fiction
+        icon: hero/cake
+      - name: Traveling
         description: ''
         percent: 80
-        icon: custom/hand-spock
+        icon: hero/globe-alt
 
 # Awards.
 #   Add/remove as many awards below as you like.

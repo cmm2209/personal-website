@@ -8,7 +8,9 @@ sections:
       title: 'Courses Taught'
       subtitle: ''
       text: |-
-        **I've taught many courses.** 
+        **Instructor of Record - Graduate Seminars**
+        Indiana University
+        -Baroque and Classical Musical Form
         
         Some to undergraduates, others to graduates.
 
