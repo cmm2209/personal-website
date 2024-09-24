@@ -11,7 +11,7 @@ cascade:
 
 
 sections:
-  - block: resume-courses-taught
+  - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
       username: admin
