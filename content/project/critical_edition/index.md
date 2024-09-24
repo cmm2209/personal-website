@@ -1,7 +1,7 @@
 ---
 title: 'Expositio problematum Aristotelis, Particula XIX - De harmonia'
 date: ''
-external_link: https://github.com/pandas-dev/pandas
+external_link: ''
 tags: []
 ---
 
