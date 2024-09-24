@@ -9,8 +9,20 @@ sections:
       subtitle: ''
       text: |-
         **Instructor of Record - Graduate Seminars**
+        
         Indiana University
-        -Baroque and Classical Musical Form
+          - Baroque and Classical Musical Form
+          - Renaissance Counterpoint
+          - History of Music Theory I
+          - Graduate Theory Review
+          - Music and Media Revolutions
+        
+        Rutgers University
+          - Study in Music Analysis
+        
+        University of British Columbia
+          - Topics in the History of Music Theory
+
         
         Some to undergraduates, others to graduates.
 
