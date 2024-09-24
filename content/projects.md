@@ -19,4 +19,6 @@ sections:
     design:
       fill_image: false
       columns: 1
+      spacing:
+        padding: [1rem, 1rem, 1rem, 1rem]
 ---
