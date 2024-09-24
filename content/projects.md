@@ -19,6 +19,5 @@ sections:
     design:
       fill_image: false
       columns: 1
-      spacing:
-        padding: [15, '2rem', 2rem, '30px']
+      spacing: '5rem'
 ---
