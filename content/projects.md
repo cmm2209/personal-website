@@ -20,5 +20,5 @@ sections:
       fill_image: false
       columns: 1
       spacing:
-        padding: [1rem, 1rem, 1rem, 1rem]
+        padding: [15, '2rem', 2rem, '30px']
 ---
