@@ -9,7 +9,6 @@ sections:
       subtitle: ''
       text: |-
         **Undergraduate Courses**
-        
         Theory I & II
           - First two semesters of a four-semester theory survey for music majors
         
@@ -20,7 +19,6 @@ sections:
           - Introduction to music for non-music majors
                 
         **Undergraduate/Graduate Courses**
-
         Renaissance Counterpoint
           - Model composition in modal polyphony
         
@@ -34,7 +32,6 @@ sections:
           - Refresher course in undergraduate-level theory for incoming masters-level students
 
         **Graduate Seminars**
-
         History of Music Theory I
           - From Ancient Greece through Zarlino
         
