@@ -1,28 +1,23 @@
 ---
-title: 'Cadence Systematized: Printz’s Doctrine of the _Clausula formalis_'
+title: 'A Major Step Forward: Changing Conceptions of Whole Tone and Scale Step in Ancient and Medieval Theory'
 
 event: Society for Music Theory annual conference
 event_url: ''
 
-location: Charlotte, NC
-# address:
- # street: 225 E Coastline Dr
- # city: Jacksonville
- # region: FL
- # postcode: '32202'
- # country: United States
+location: Minneapolis, MN
+address: ''
 
-summary: An introduction to Printz’s fascinating, baroquely-complex theory of the cadence. 
-abstract: 'One of W. C. Printz’s (1641-1717) most significant and idiosyncratic innovations is his naming and describing of an unprecedently large number of types of cadence, or _clausula formalis_. Equally noteworthy is the way in which these various categories are logically organized. In this paper I first demonstrate the dependence of the doctrine’s categorial organization on the influential pedagogical theories of Petrus Ramus. I then survey his seventeen categories of _clausula formalis_, showing that they comprise a rich diversity of cadence types, many of which would be unthinkingly disregarded by modern theoretical judgments. The significance of this wide variety of cadences, and its accompanying range of degrees of closure, becomes apparent when I consider them in combination with the treatise’s incipient theory of form.'
+summary: An argument that historical tuning systems depended on contemporaneous concepts of the scale step.
+abstract: 'The relationship between the whole tone and the concept of the scale step within speculative theory played a crucial role in the sixteenth-century reconceptualization of the relative importance of the “horizontal” and the “vertical” dimensions of music. A longstanding medieval-era conflation of these two concepts had suited monophonic music, but prevented the theorizing of a consonant major third. It was only by rejecting this tradition and utilizing different sizes of scale steps, a practice which Zarlino linked to Greek Antiquity, that theorists were able to propose just intonation and to respond fully to contemporary harmonic developments, such as triadic composition.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2017-11-02T00:00:00Z'
-#date_end: '2024-11-08T18:45:00Z'
+date: '2011-10-28T12:00:00Z'
+# date_end: '2021-08-31T18:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2013-10-31T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +28,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Münchner DigitalisierungsZentrum**](https://www.digitale-sammlungen.de/en/view/bsb00045152)'
+  caption: 'Image credit: [**Gallica**](https://gallica.bnf.fr/ark:/12148/btv1b105438044)'
   focal_point: Center
 
 #links:
