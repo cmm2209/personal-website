@@ -15,8 +15,7 @@ sections:
     content:
       title: Courses taught
       subtitle: INSTRUCTOR OF RECORD`:` GRADUATE SEMINARS
-      text: 
-      Indiana University
+      text: Indiana University
       - Baroque and Classical Musical Form
       - Renaissance Counterpoint
       - History of Music Theory I
@@ -28,8 +27,7 @@ sections:
       - Topics in the History of Music Theory
 
       subtitle: INSTRUCTOR OF RECORD`:` UNDERGRADUATE COURSES
-      text:
-      Columbia University
+      text: Columbia University
       - Music Humanities
       - Theory II
       - Theory I
