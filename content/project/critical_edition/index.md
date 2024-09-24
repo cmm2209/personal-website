@@ -5,7 +5,7 @@ external_link: ''
 tags: []
 reading_time: false
 share: false
-summary: A born-digital critical edition of Pietro d'Abano's commentary on the pseudo-Aristotelian _Problemata_.
+summary: A born-digital critical edition of Pietro d'Abano's commentary on the pseudo-Aristotelian Problemata.
 ---
 
 Yet more info about the edition.

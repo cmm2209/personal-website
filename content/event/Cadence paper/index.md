@@ -1,5 +1,5 @@
 ---
-title: 'Cadence Systematized: Printz’s Doctrine of the _Clausula formalis_'
+title: 'Cadence Systematized: Printz’s Doctrine of the Clausula formalis'
 
 event: Society for Music Theory annual conference
 event_url: ''

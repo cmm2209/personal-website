@@ -1,5 +1,5 @@
 ---
-title: 'Comparing Bodies: Organicism and the Rise of Romantic _Formenlehre_'
+title: 'Comparing Bodies: Organicism and the Rise of Romantic Formenlehre'
 
 event: Music Theory Midwest annual conference
 event_url: ''
