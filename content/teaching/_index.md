@@ -8,7 +8,7 @@ sections:
       title: 'Courses Taught'
       subtitle: ''
       text: |-
-        I've taught many courses. 
+        **I've taught many courses.** 
         
         Some to undergraduates, others to graduates.
 
