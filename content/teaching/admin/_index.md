@@ -1,14 +1,11 @@
 ---
-education:
-  - area: PhD  Music Theory
-    institution: Columbia University
-    date_start: 2011-05-19
-    date_end: 2015-07-31
+courses taught:
+  - area: Diatonic Theory I & II
+    # institution: Columbia University
+    # date_start: 2011-05-19
+    # date_end: 2015-07-31
     summary: |
-      Dissertation "Studies in the History of the Cadence," examining the development of that concept from antiquity through the romantic period. Dissertation sponsors: David E. Cohen and Benjamin Steege.
-    button:
-      text: 'Read Dissertation'
-      url: 'https://doi.org/10.7916/D8MC8Z58'
+      First year of a two-year music theory survey for music majors.
   - area: Certificate  Medieval and Renaissance Studies
     institution: Columbia University
     date_start: 2008-09-01
