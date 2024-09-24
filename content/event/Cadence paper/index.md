@@ -27,6 +27,9 @@ publishDate: '2013-10-31T00:00:00Z'
 authors:
   - admin
 
+reading_time: false
+share: false
+
 tags: []
 
 # Is this a featured talk? (true/false)
