@@ -1,18 +1,18 @@
 ---
-title: 'Against the Monochord: Numbers, String Lengths, and the History of Music Theory'
+title: 'A Major Step Forward: Changing Conceptions of Whole Tone and Scale Step in Ancient and Medieval Theory'
 
-event: American Musicological Society annual conference
+event: Society for Music Theory annual conference
 event_url: ''
 
-location: Online
+location: Minneapolis, MN
 address: ''
 
-summary: A riposte against the value of the monochord as an "instrument of music theory."
-abstract: 'This paper argues that the importance of one instrument, the monochord, has been inflated for generations, and that this inflation has distorted our interpretations of music theory from the premodern world. I focus on three pre-modern texts which scholars of the past two generations have misinterpreted due to monochord-fueled presumptions: Boethius’s _De institutione musica_, the anonymous _Alia musica_, and Marchetto of Padua’s _Lucidarium_. Thus, by denying the temptation to familiarize pre-modern texts by reading string lengths into their theories we are better able to understand their authors’ arguments and the multifarious roles that number and music played in their worlds.'
+summary: An argument that historical tuning systems depended on contemporaneous concepts of the scale step.
+abstract: 'The relationship between the whole tone and the concept of the scale step within speculative theory played a crucial role in the sixteenth-century reconceptualization of the relative importance of the “horizontal” and the “vertical” dimensions of music. A longstanding medieval-era conflation of these two concepts had suited monophonic music, but prevented the theorizing of a consonant major third. It was only by rejecting this tradition and utilizing different sizes of scale steps, a practice which Zarlino linked to Greek Antiquity, that theorists were able to propose just intonation and to respond fully to contemporary harmonic developments, such as triadic composition.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-11-15T12:00:00Z'
+date: '2011-10-28T12:00:00Z'
 # date_end: '2021-08-31T18:45:00Z'
 all_day: false
 
@@ -28,7 +28,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Wikimedia**](https://commons.wikimedia.org/wiki/File:Gaffuri1.jpg)'
+  caption: 'Image credit: [**Gallica**](https://gallica.bnf.fr/ark:/12148/btv1b105438044)'
   focal_point: Center
 
 #links:
