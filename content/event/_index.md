@@ -1,6 +1,5 @@
 ---
 title: Conference Presentations
-type: landing
 cms_exclude: true
 #url: talk
 
