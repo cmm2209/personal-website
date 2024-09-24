@@ -1,6 +1,6 @@
 ---
 title: 'Expositio problematum Aristotelis, Particula XIX - De harmonia'
-date: ''
+# date: ''
 external_link: ''
 tags: []
 ---
