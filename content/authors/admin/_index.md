@@ -127,15 +127,15 @@ skills:
       - name: TEI XML encoding
         description: ''
         percent: 100
-        icon: custom/file-code
+        icon: devicon/xml
       - name: Javascript
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/javascript
       - name: Mongo DB
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/mongodb
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

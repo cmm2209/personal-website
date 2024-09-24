@@ -6,8 +6,18 @@ sections:
   - block: markdown
     content:
       title: Courses Taught
-      subtitle: My subtitle
-      text: INSTRUCTOR OF RECORD for GRADUATE SEMINARS
+      subtitle: ''
+      text: |-
+      **Instructor of Record: Graduate Seminars**
+      Indiana University
+      - Baroque and Classical Musical Form
+      - Renaissance Counterpoint
+      - History of Music Theory I
+      - Graduate Theory Review
+      - Music and Media Revolutions
+
+
+
 
 
 ---
