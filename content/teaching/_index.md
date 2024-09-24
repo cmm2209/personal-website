@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Courses Taught
+      title: 'Courses Taught'
       subtitle: ''
       text: |-
       **Instructor of Record: Graduate Seminars**
@@ -15,7 +15,8 @@ sections:
       - History of Music Theory I
       - Graduate Theory Review
       - Music and Media Revolutions
-
+    design:
+      columns: '1'
 
 
 
