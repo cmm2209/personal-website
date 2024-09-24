@@ -9,15 +9,16 @@ cascade:
     params:
       show_breadcrumb: true
 
+
 sections:
-  - block: collection
-    id: teaching
+  - block: resume-experience
     content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
+      # The user's folder name in `content/authors/`
+      username: admin
     design:
-      view: article-grid
-      columns: 2
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+
 ---
