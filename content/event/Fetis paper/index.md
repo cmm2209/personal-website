@@ -1,5 +1,5 @@
 ---
-title: '‘{{<  myshortcode `<i>L’art ne progresse pas, mais il se transforme</i>` >}}’: Reconsidering Teleology in Fétis’s Historiography'
+title: '‘{{% mdshortcode %}}<i>L’art ne progresse pas, mais il se transforme</i>{{% /mdshortcode %}}’: Reconsidering Teleology in Fétis’s Historiography'
 
 event: Music Theory Society of New York State annual conference
 event_url: ''
