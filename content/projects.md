@@ -19,4 +19,5 @@ sections:
     design:
       fill_image: false
       columns: 1
+      spacing: '3rem'
 ---
