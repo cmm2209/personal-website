@@ -14,7 +14,7 @@ sections:
   - block: markdown
     content:
       title: Courses taught
-      subtitle: INSTRUCTOR OF RECORD`:` GRADUATE SEMINARS
+      subtitle: INSTRUCTOR OF RECORD - GRADUATE SEMINARS
       text: Indiana University
       - Baroque and Classical Musical Form
       - Renaissance Counterpoint
@@ -26,7 +26,7 @@ sections:
       University of British Columbia
       - Topics in the History of Music Theory
 
-      subtitle: INSTRUCTOR OF RECORD`:` UNDERGRADUATE COURSES
+      subtitle: INSTRUCTOR OF RECORD - UNDERGRADUATE COURSES
       text: Columbia University
       - Music Humanities
       - Theory II
