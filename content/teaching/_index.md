@@ -8,25 +8,38 @@ sections:
       title: 'Courses Taught'
       subtitle: ''
       text: |-
-        **Instructor of Record - Graduate Seminars**
+        **Undergraduate Courses**
         
-        Indiana University
-          - Baroque and Classical Musical Form
-          - Renaissance Counterpoint
-          - History of Music Theory I
-          - Graduate Theory Review
-          - Music and Media Revolutions
+        Theory I & II
+          - First two semesters of a four-semester theory survey for music majors
         
-        Rutgers University
-          - Study in Music Analysis
+        Aural Skills II, III, & IV
+          - Second through fourth semesters of a four-semester aural skills survey for music majors
         
-        University of British Columbia
-          - Topics in the History of Music Theory
+        Music Humanities
+          - Introduction to music for non-music majors
+                
+        **Undergraduate/Graduate Courses**
 
+        Renaissance Counterpoint
+          - Model composition in modal polyphony
         
-        Some to undergraduates, others to graduates.
+        Baroque and Classical Musical Form
+          - Formal analysis of Classical-era music, and adaptations of those models to Baroque-era pieces
+        
+        Music and Media Revolutions
+          - Examining how developments in media technology have affected music and music theorizing
+        
+        Graduate Theory Review
+          - Refresher course in undergraduate-level theory for incoming masters-level students
 
-        I'd like to teach some more!
+        **Graduate Seminars**
+
+        History of Music Theory I
+          - From Ancient Greece through Zarlino
+        
+        Topics in the History of Music Theory
+          - From Zarlino through Koch
 
     design:
       columns: '1'
