@@ -7,5 +7,5 @@ sections:
     content:
       title: Courses Taught
       subtitle: My subtitle
-      text: I have taught many courses
+      text: INSTRUCTOR OF RECORD`:` GRADUATE SEMINARS
 ---
