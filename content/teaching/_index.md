@@ -16,13 +16,13 @@ sections:
 
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: 'Courses Taught'
-      subtitle: ''
-      text: ''
-    design:
-      columns: '1'
+ # - block: markdown
+ #   content:
+ #     title: 'Institutions where I've Taught'
+ #     subtitle: ''
+ #     text: ''
+ #   design:
+ #     columns: '1'
 
 
 
