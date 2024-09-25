@@ -9,3 +9,4 @@ tags:
 image:
   caption: 'Liszt, Consolation no. 4'
 ---
+First two semesters of a four-semester theory survey for music majors
