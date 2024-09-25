@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: Theory I & II
+summary: First two semesters of a four-semester theory survey for music majors
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Undergraduate Course
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Liszt, Consolation no. 4'
 ---
