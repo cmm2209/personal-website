@@ -1,12 +1,13 @@
 ---
-title: Aural Skills II, III, & IV
-summary: Second through fourth semesters of a four-semester aural skills survey for music majors
-date: ''
+title: Learn JavaScript
+summary: Easily learn JavaScript in 10 minutes!
+date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Undergraduate Course
-image: ''
+  - JavaScript
+image:
+  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
