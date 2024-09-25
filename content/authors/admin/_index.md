@@ -98,7 +98,7 @@ work:
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2206-12-01
+    date_start: 2020-12-01
     date_end: 2022-08-31
   - position: Visiting Assistant Professor
     company_name: Jacobs School of Music, Indiana University
