@@ -7,4 +7,6 @@ publishDate: '2024-09-25T18:48:38.262125Z'
 publication_types:
 - article-journal
 publication: '*Theoria - Historical Aspects of Music Theory*'
+reading_time: false
+share: false
 ---

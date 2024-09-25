@@ -7,7 +7,6 @@ publishDate: '2024-09-25T18:48:38.230163Z'
 publication_types:
 - article-journal
 publication: '*Classical Quarterly*'
-links:
-- name: URL
-  url: ''
+reading_time: false
+share: false
 ---

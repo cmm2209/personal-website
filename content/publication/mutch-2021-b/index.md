@@ -11,4 +11,6 @@ doi: 10.11116/mta.8.1.7
 links:
 - name: URL
   url: https://doi.org/10.11116%2Fmta.8.1.7
+reading_time: false
+share: false
 ---

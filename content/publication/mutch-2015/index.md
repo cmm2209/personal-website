@@ -11,4 +11,6 @@ doi: 10.1017/s1478570614000359
 links:
 - name: URL
   url: https://doi.org/10.1017%2Fs1478570614000359
+reading_time: false
+share: false
 ---

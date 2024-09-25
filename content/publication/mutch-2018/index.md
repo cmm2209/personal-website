@@ -10,4 +10,6 @@ publication: '*Theory and Practice*'
 links:
 - name: URL
   url: https://www.jstor.org/stable/26892826
+reading_time: false
+share: false
 ---

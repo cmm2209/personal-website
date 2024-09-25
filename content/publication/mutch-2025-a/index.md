@@ -8,4 +8,6 @@ publication_types:
 - chapter
 publication: '*There’s a Song to be Sung: Critical Reflections on the Music and Influence
   of Johnny Clegg*'
+reading_time: false
+share: false
 ---
