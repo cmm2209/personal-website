@@ -1,7 +1,7 @@
 ---
 title: Theory I & II
 summary: First two semesters of a four-semester theory survey for music majors
-date: 2023-10-24
+date: 2024-09-01
 type: docs
 math: false
 tags:

@@ -1,7 +1,7 @@
 ---
 title: History of Music Theory I
 summary: From Ancient Greece through Zarlino
-date: 2023-10-24
+date: 2018-09-01
 type: docs
 math: false
 tags:

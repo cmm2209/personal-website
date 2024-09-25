@@ -1,7 +1,7 @@
 ---
 title: Renaissance Counterpoint
 summary: Model composition in modal polyphony
-date: 2023-10-24
+date: 2022-09-01
 type: docs
 math: false
 tags:

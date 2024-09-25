@@ -1,7 +1,7 @@
 ---
 title: Music Humanities
 summary: Introduction to music for non-music majors
-date: 2023-10-24
+date: 2017-09-01
 type: docs
 math: false
 tags:

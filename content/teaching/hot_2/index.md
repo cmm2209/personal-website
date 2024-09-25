@@ -1,7 +1,7 @@
 ---
 title: Topics in the History of Music Theory
 summary: From Zarlino through Koch
-date: 2023-10-24
+date: 2019-09-01
 type: docs
 math: false
 tags:

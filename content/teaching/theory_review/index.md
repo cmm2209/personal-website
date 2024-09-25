@@ -1,7 +1,7 @@
 ---
 title: Graduate Theory Review
 summary: Refresher course in undergraduate-level theory for incoming masters-level students
-date: 2023-10-24
+date: 2016-09-01
 type: docs
 math: false
 tags:
