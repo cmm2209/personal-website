@@ -92,67 +92,67 @@ work:
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2022-09-01
-    date_end: ''
+    year_start: 2022
+    year_end: ''
   - position: Postdoctoral Research Fellow
     company_name: Max Planck Institute for Empirical Aesthetics
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
-    date_start: 2020-12-01
-    date_end: 2022-08-31
+    year_start: 2020
+    year_end: 2022
   - position: Visiting Assistant Professor
     company_name: Jacobs School of Music, Indiana University
     company_url: 'https://music.indiana.edu/index.html'
     company_logo: ''
-    date_start: 2019-08-01
-    date_end: 2020-05-31  
+    year_start: 2019
+    year_end: 2020 
   - position: Postdoctoral Resident Scholar
     company_name: Jacobs School of Music, Indiana University
     company_url: 'https://music.indiana.edu/index.html'
     company_logo: ''
-    date_start: 2017-08-01
-    date_end: 2019-05-31   
+    year_start: 2017
+    year_end: 2019  
   - position: Core Lecturer in the Humanities
     company_name: Columbia University
     company_url: 'https://columbia.edu'
     company_logo: ''
-    date_start: 2015-09-01
-    date_end: 2017-05-31    
+    year_start: 2015
+    year_end: 2017    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: TEI XML encoding
-        description: ''
-        percent: 100
-        icon: devicon/xml
-      - name: Javascript
-        description: ''
-        percent: 80
-        icon: devicon/javascript
-      - name: Mongo DB
-        description: ''
-        percent: 40
-        icon: devicon/mongodb
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cooking
-        description: ''
-        percent: 100
-        icon: hero/cake
-      - name: Traveling
-        description: ''
-        percent: 80
-        icon: hero/globe-alt
-
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: TEI XML encoding
+#        description: ''
+#        percent: 100
+#        icon: devicon/xml
+#      - name: Javascript
+#        description: ''
+#        percent: 80
+#        icon: devicon/javascript
+#      - name: Mongo DB
+#        description: ''
+#        percent: 40
+#        icon: devicon/mongodb
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cooking
+#        description: ''
+#        percent: 100
+#        icon: hero/cake
+#     - name: Traveling
+#        description: ''
+#        percent: 80
+#        icon: hero/globe-alt
+#
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
