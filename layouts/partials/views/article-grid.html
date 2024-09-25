@@ -45,12 +45,11 @@
         {{end}}
       </div>
       <!--          <div class="relative line-clamp-2" style="display: block; height: 4em">-->
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="{{ $link }}" {{ $target | safeHTMLAttr }}><span
+      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">
            {{- $item.Title -}}
            {{if $target}}{{ partial "functions/get_icon" (dict "name" "arrow-top-right-on-square" "attributes" "style=\"height: 1em;\" class=\"inline-flex h-6 w-6 pl-2\"")  }}{{end}}
-          </span></a>
+          </span>
       </h2>
       <!--          </div>-->
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
