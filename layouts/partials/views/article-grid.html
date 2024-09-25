@@ -28,9 +28,6 @@
        {{ $target | safeHTMLAttr }}>
 
       <img alt="{{ $item.Title | plainify }}"
-           class="{{if $fill_image}}object-fill{{else}}object-contain{{end}}"
-           data-nimg="fill"
-           decoding="async"
            fetchpriority="high" height="{{ $image.Height }}" loading="lazy" src="{{ $image.RelPermalink }}"
            style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
            width="{{ $image.Width }}"></span>
