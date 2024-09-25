@@ -53,7 +53,7 @@
                 {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
               </div>
               <div class="text-muted exp-meta">
-                {{ (time .date_start) }} –
+                {{ (time .date_start) | time.Format }} –
                 {{ if .date_end}}
                   {{ (time .date_end) | time.Format ($block.Params.date_format | default "January 2006") }}
                 {{else}}
