@@ -46,8 +46,8 @@ interests:
 education:
   - area: PhD  Music Theory
     institution: Columbia University
-    date_start: 2011-05-19
-    date_end: 2015-07-31
+    year_start: 2011-05-19
+    year_end: 2015-07-31
     summary: |
       Dissertation "Studies in the History of the Cadence," examining the development of that concept from antiquity through the romantic period. Dissertation sponsors: David E. Cohen and Benjamin Steege.
     button:
@@ -55,8 +55,8 @@ education:
       url: 'https://doi.org/10.7916/D8MC8Z58'
   - area: Certificate  Medieval and Renaissance Studies
     institution: Columbia University
-    date_start: 2008-09-01
-    date_end: 2015-05-20
+    year_start: 2008-09-01
+    year_end: 2015-05-20
     # summary: |
     #  Courses included:
     #  - Latin Paleography
@@ -64,8 +64,8 @@ education:
     #  - Aristotle's Poetics (in Greek)  
   - area: MPhil  Music Theory
     institution: Columbia University
-    date_start: 2010-02-11
-    date_end: 2011-05-18
+    year_start: 2010-02-11
+    year_end: 2011-05-18
     # summary: |
     #  Courses included:
     #  - Schenkerian Analysis III (with William Rothstein)
@@ -73,8 +73,8 @@ education:
     #  - Musicology Seminar on Medieval Music
   - area: MA  Music Theory
     institution: Columbia University
-    date_start: 2008-09-01
-    date_end: 2010-02-10
+    year_start: 2008-09-01
+    year_end: 2010-02-10
     # summary: |
     #  Courses included:
     #  - Schenkerian Analysis II (with Poundie Burstein)
@@ -82,8 +82,8 @@ education:
     #  - Formal Analysis
   - area: BMus Music Scholarship
     institution: University of British Columbia
-    date_start: 2003-09-01
-    date_end: 2008-05-31
+    year_start: 2003-09-01
+    year_end: 2008-05-31
     # summary: |
     #  Graduated at top of class  
 
