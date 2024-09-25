@@ -40,11 +40,11 @@
       </h3>
       <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{.company_name}}</span>
       <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
-        {{ if .date_start}}
-          {{ .company_name }} –
+        {{ if .year_start}}
+          {{ .year_start }} –
         {{ end }}
-        {{ if .date_end}}
-          {{ (time .date_end) | time.Format ($block.design.date_format | default "January 2006") }}
+        {{ if .year_end}}
+          {{ .year_end }}
         {{else}}
           {{ i18n "present" | default "Present" }}
         {{end}}
