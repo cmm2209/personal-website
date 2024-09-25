@@ -41,7 +41,7 @@
       <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{.company_name}}</span>
       <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
         {{ if .date_start}}
-          {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
+          {{ .company_name }} –
         {{ end }}
         {{ if .date_end}}
           {{ (time .date_end) | time.Format ($block.design.date_format | default "January 2006") }}
