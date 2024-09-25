@@ -1,7 +1,7 @@
 ---
 title: 'A digital critical edition'
 date: 2018-01-01
-external_link: 'https://cmm2209.github.io/critical-edition-sample/sample.html#problem6'
+external_link: ''
 tags: []
 reading_time: false
 share: false
