@@ -21,14 +21,14 @@
     {{ $image = .Fit (printf "960x540 %s" $anchor) }}
   {{end}}
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
+  <div class="overflow-hidden rounded-md bg-gray-100 hover:scale-105 dark:bg-gray-800">
 
     <span
       class="relative block aspect-video"
        {{ $target | safeHTMLAttr }}>
 
       <img alt="{{ $item.Title | plainify }}"
-           class="{{if $fill_image}}object-fill{{else}}object-contain{{end}} transition-all"
+           class="{{if $fill_image}}object-fill{{else}}object-contain{{end}}"
            data-nimg="fill"
            decoding="async"
            fetchpriority="high" height="{{ $image.Height }}" loading="lazy" src="{{ $image.RelPermalink }}"
