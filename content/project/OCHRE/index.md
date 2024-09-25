@@ -9,5 +9,4 @@ summary: I implement the integration of the Thinking Music project with the OCHR
 ---
 
 More info about OCHRE.
-
-<!--more-->
+[OCHRE](https://voices.uchicago.edu/ochre/)
