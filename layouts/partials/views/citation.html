@@ -16,9 +16,10 @@
     {{- $item.Params.publication_short | markdownify -}}.
   {{ else if $item.Params.publication }}
     {{- $item.Params.publication | markdownify -}}.
+    {{ end }}
   {{ if $item.Params.award }}
     <br/>
-    {{- $item.Params.award | markdownify -}}. 
+    {{- $item.Params.award | markdownify -}}.  
   {{ end }}
 
   {{ if $has_attachments }}
