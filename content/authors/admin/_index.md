@@ -20,7 +20,7 @@ superuser: true
 highlight_name: false
 
 # Role/position/tagline
-role: Research Scientist
+role: Music Theorist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -137,11 +137,10 @@ awards:
     summary: |
 
 service:
-  - role: Editorial board member
+  - title: David Kraehenbuehl Prize
     url: ''
-    year_start: 2021
-    year_end: ''
-    served: Indiana Theory Review ∙ 2021 – present
+    date: '2024-07-27'
+    awarder: Journal of Music Theory
     icon: ''
     summary: |
 
