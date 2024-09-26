@@ -139,10 +139,15 @@ awards:
 service:
   - title: Editorial Board Member
     url: ''
-    date: '2024-07-27'
+    date_from: '2021-07-27'
+    date_to: ''
     awarder: Indiana Theory Review
     icon: ''
-    summary: |
+  - title: Editorial Board Member
+    url: ''
+    date: '2021-07-27'
+    awarder: Indiana Theory Review
+    icon: '' 
 
 
 ---
