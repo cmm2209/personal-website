@@ -139,7 +139,7 @@
 <a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
     {{ partial "functions/get_icon" (dict "name" "link" "attributes" "style=\"height: 1em\" class='inline-block'") }}
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
-    DOI{{ end -}} 
+    DOI
 </a>
 {{ end }}
 {{ range $page.Params.links }}
