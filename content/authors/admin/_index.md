@@ -150,12 +150,13 @@ service:
     awarder: ''
     icon: ''
     summary: |
-      Music Theory Spectrum, 2023
-      Music Theory Online, 2023 & 2017
-      Journal of Musicology, 2022 
-      GAMUT: Journal of the Music Theory Society of the Mid-Atlantic, 2022 
-      Music Theory and Analysis, 2021 
-      Journal of Music Theory, 2020 & 2019
+      Ad hoc submission reviewing for:
+      - Music Theory Spectrum, 2023
+      - Music Theory Online, 2023 & 2017
+      - Journal of Musicology, 2022 
+      - GAMUT: Journal of the Music Theory Society of the Mid-Atlantic, 2022 
+      - Music Theory and Analysis, 2021 
+      - Journal of Music Theory, 2020 & 2019
   - title: Co-chair and Founding Member
     url: ''
     date: '2021-11-27'
