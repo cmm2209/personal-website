@@ -90,32 +90,20 @@ education:
     #  Graduated at top of class  
 
 work:
-  - position: Research Scientist
-    company_name: Max Planck Institute for Empirical Aesthetics
-    company_url: 'https://www.aesthetics.mpg.de/en/'
-    company_logo: ''
-    year_start: 2022
-    year_end: ''
-  - position: Postdoctoral Research Fellow
-    company_name: Max Planck Institute for Empirical Aesthetics
+  - position: Max Planck Institute for Empirical Aesthetics
+    company_name: Research Scientist, Postdoctoral Research Fellow
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
     year_start: 2020
-    year_end: 2022
-  - position: Visiting Assistant Professor
-    company_name: Jacobs School of Music, Indiana University
-    company_url: 'https://music.indiana.edu/index.html'
-    company_logo: ''
-    year_start: 2019
-    year_end: 2020 
-  - position: Postdoctoral Resident Scholar
-    company_name: Jacobs School of Music, Indiana University
+    year_end: ''
+  - position: Jacobs School of Music, Indiana University
+    company_name: Visiting Assistant Professor, Postdoctoral Resident Scholar
     company_url: 'https://music.indiana.edu/index.html'
     company_logo: ''
     year_start: 2017
-    year_end: 2019  
-  - position: Core Lecturer in the Humanities
-    company_name: Columbia University
+    year_end: 2020  
+  - position: Columbia University
+    company_name: Core Lecturer in the Humanities
     company_url: 'https://columbia.edu'
     company_logo: ''
     year_start: 2015
