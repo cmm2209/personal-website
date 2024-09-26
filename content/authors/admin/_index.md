@@ -170,7 +170,7 @@ service:
     awarder: ''
     icon: '' 
     summary: |
-      Centre for the History of Music Theory and Literature, Indiana University ∙ 2017 – 2019
+      Centre for the History of Music Theory and Literature ∙ 2017 – 2019
   - title: Co-organizer
     url: ''
     date: '2018-11-09'
