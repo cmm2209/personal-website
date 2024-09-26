@@ -140,34 +140,50 @@ service:
   - title: Editorial Board Member
     url: ''
     date: '2024-09-26'
-    awarder: Indiana Theory Review ∙ 2021 – Present
+    awarder: ''
     icon: ''
+    summary: |
+      Indiana Theory Review ∙ 2021 – Present
+  - title: Manuscript Reviewer
+    url: ''
+    date: '2023-09-26'
+    awarder: ''
+    icon: ''
+    summary: |
+      Music Theory Spectrum, 2023
+      Music Theory Online, 2023 & 2017
+      Journal of Musicology, 2022 
+      GAMUT: Journal of the Music Theory Society of the Mid-Atlantic, 2022 
+      Music Theory and Analysis, 2021 
+      Journal of Music Theory, 2020 & 2019
   - title: Co-chair and Founding Member
     url: ''
     date: '2021-11-27'
-    awarder: AMS history of theory study group ∙ 2017 – 2021
+    awarder: ''
     icon: '' 
+    summary: |
+      AMS history of theory study group ∙ 2017 – 2021 
   - title: Board Member
     url: ''
     date: '2019-05-27'
-    awarder: Centre for the History of Music Theory and Literature, Indiana University ∙ 2017 – 2019
+    awarder: ''
     icon: '' 
-  - title: Conference Session Chair
-    url: ''
-    date: '2019-11-27'
-    awarder: '“Spinning Out Bach,” Society for Music Theory annual meeting ∙ 2019 
-    “History of Theory: Politics, Practicalities, and Speculation,” Society for Music Theory annual meeting ∙ 2018'
-    icon: ''
+    summary: |
+      Centre for the History of Music Theory and Literature, Indiana University ∙ 2017 – 2019
   - title: Co-organizer
     url: ''
     date: '2018-11-09'
-    awarder: “Instruments of Music Theory” conference ∙ November 8–9, 2017
+    awarder: ''
     icon: ''     
+    summary: |
+      “Instruments of Music Theory” conference ∙ November 8–9, 2017  
   - title: Submissions Editor
     url: ''
     date: '2015-05-30'
-    awarder: Current Musicology ∙ 2011 – 2015
+    awarder: ''
     icon: '' 
+    summary: |
+      Current Musicology ∙ 2011 – 2015    
 
 
 ---
