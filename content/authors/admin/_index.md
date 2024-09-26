@@ -41,7 +41,9 @@ profiles:
 interests:
   - History of Music Theory
   - Digital Humanities
-  - Music Analysis
+  - Musical Form
+  - Analysis of Global Pop Music
+  - Media Studies
 
 education:
   - area: PhD  Music Theory
