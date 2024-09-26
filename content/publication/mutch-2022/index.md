@@ -13,4 +13,5 @@ links:
   url: https://doi.org/10.1215%2F00222909-9534127
 reading_time: false
 share: false
+summary: Winner of the David Kraehenbuehl Prize 2022–23
 ---
