@@ -140,13 +140,25 @@ service:
   - title: Editorial Board Member
     url: ''
     date: '2024-09-26'
-    awarder: Indiana Theory Review ∙ 2021 – Present
+    awarder: Indiana Theory Review  &#8729; 2021 – Present
     icon: ''
   - title: Co-chair and Founding Member
     url: ''
-    date: '2021-07-27'
-    awarder: AMS history of theory study group ∙ 2021 – Present
+    date: '2021-11-27'
+    awarder: AMS history of theory study group  &#8729; 2017 – 2021
     icon: '' 
+  - title: Board Member
+    url: ''
+    date: '2019-05-27'
+    awarder: Centre for the History of Music Theory and Literature, Indiana University &#8729; 2017 – 2019
+    icon: '' 
+  - title: Conference Session Chair
+    url: ''
+    date: '2019-11-27'
+    awarder: “Spinning Out Bach,” Society for Music Theory annual meeting &#8729; 2019
+    awarder: '“History of Theory: Politics, Practicalities, and Speculation,” Society for Music Theory annual meeting &#8729; 2018'
+    icon: ''
+  
 
 
 ---
