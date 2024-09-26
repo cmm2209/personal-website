@@ -139,14 +139,13 @@ awards:
 service:
   - title: Editorial Board Member
     url: ''
-    date_from: '2021-07-27'
-    date_to: ''
-    awarder: Indiana Theory Review
+    date: '2024-09-26'
+    awarder: Indiana Theory Review ∙ 2021 – Present
     icon: ''
-  - title: Editorial Board Member
+  - title: Co-chair and Founding Member
     url: ''
     date: '2021-07-27'
-    awarder: Indiana Theory Review
+    awarder: AMS history of theory study group ∙ 2021 – Present
     icon: '' 
 
 
@@ -154,4 +153,4 @@ service:
 
 ## About Me
 
-Caleb Mutch is a Research Scientist at the Max Planck Institute for Empirical Aesthetics. He has been a Postdoctoral Research Fellow and Visiting Assistant Professor at Indiana University, and prior to that he served as a Lecturer at Columbia University, where he also completed a Ph.D. in music theory. He studies topics including the history of music theory from antiquity to the romantic era, formal analysis of baroque and classical music, and South African popular music.
+Caleb Mutch is a Research Scientist at the Max Planck Institute for Empirical Aesthetics. His work focuses on the overlooked histories of fundamental musical concepts such as the cadence, the triad, and form. This research area is complemented by secondary interests in global pop music analysis and in the Digital Humanities.
