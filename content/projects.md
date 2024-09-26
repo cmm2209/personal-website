@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: My Digital Humanities Projects
+      title: Digital Humanities Projects
       text: ''
       filters:
         folders:
