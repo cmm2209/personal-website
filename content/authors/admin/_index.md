@@ -155,9 +155,19 @@ service:
   - title: Conference Session Chair
     url: ''
     date: '2019-11-27'
-    awarder: '“Spinning Out Bach,” Society for Music Theory annual meeting ∙ 2019 <br/> “History of Theory: Politics, Practicalities, and Speculation,” Society for Music Theory annual meeting ∙ 2018'
+    awarder: '“Spinning Out Bach,” Society for Music Theory annual meeting ∙ 2019 
+    “History of Theory: Politics, Practicalities, and Speculation,” Society for Music Theory annual meeting ∙ 2018'
     icon: ''
-  
+  - title: Co-organizer
+    url: ''
+    date: '2018-11-09'
+    awarder: “Instruments of Music Theory” conference ∙ November 8–9, 2017
+    icon: ''     
+  - title: Submissions Editor
+    url: ''
+    date: '2015-05-30'
+    awarder: Current Musicology ∙ 2011 – 2015
+    icon: '' 
 
 
 ---
