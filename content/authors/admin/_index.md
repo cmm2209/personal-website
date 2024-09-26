@@ -109,45 +109,34 @@ work:
     year_start: 2015
     year_end: 2017    
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: TEI XML encoding
-#        description: ''
-#        percent: 100
-#        icon: devicon/xml
-#      - name: Javascript
-#        description: ''
-#        percent: 80
-#        icon: devicon/javascript
-#      - name: Mongo DB
-#        description: ''
-#        percent: 40
-#        icon: devicon/mongodb
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cooking
-#        description: ''
-#        percent: 100
-#        icon: hero/cake
-#     - name: Traveling
-#        description: ''
-#        percent: 80
-#        icon: hero/globe-alt
-#
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: David Kraehenbuehl Prize
+    url: http://lists.societymusictheory.org/pipermail/historyoftheory-societymusictheory.org/Week-of-Mon-20240722/000106.html
+    date: '2024-07-27'
+    awarder: Journal of Music Theory
+    icon: ''
+    summary: |
+      Awarded biennially to the best article published in the *Journal of Music Theory* by a scholar in early career who is untenured at time of submission.
+  - title: Full funding to attend Digital Critical Editions workshop
+    url: https://digitallatin.org/
+    date: '2017-07-01'
+    awarder: Digital Latin Library
+    icon: ''
+    summary: |
+      
+  - title: Directors' Scholarship Fund
+    url: https://rarebookschool.org/
+    date: '2014-07-01'
+    awarder: Rare Books School
+    icon: ''
+    summary: |
+
+service:
   - title: David Kraehenbuehl Prize
     url: http://lists.societymusictheory.org/pipermail/historyoftheory-societymusictheory.org/Week-of-Mon-20240722/000106.html
     date: '2024-07-27'
