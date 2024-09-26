@@ -17,14 +17,14 @@
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
-    {{ $block.content.title | markdownify | emojify }}
+    {{ $block.content.role | markdownify | emojify }}
   </div>
 
   {{ with $block.content.text }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
 
 <div class="w-full flex flex-col gap-6">
 {{ if $awards }}
-{{ range $idx, $key := sort $awards ".date_start" "desc" }}
+{{ range $idx, $key := sort $awards ".year_start" "desc" }}
 <div class="w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
   {{- $icon := .icon }}
   {{ with $icon }}
@@ -32,14 +32,14 @@
     {{ partial "functions/get_icon" (dict "name" $icon "pack" "brands" "attributes" "style=\"height: 100%;\"")  }}
   </div>
   {{ end}}
-  {{with .url}}<a href={{.}} target="_blank" rel="noopener">{{end}}
-    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">{{.title | markdownify | emojify}}</h5>
-  {{with .url}}</a>{{end}}
+  {{with .url}}{{end}}
+    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">{{.role | markdownify | emojify}}</h5>
+  {{with .url}}{{end}}
 
   <div class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
-    {{.awarder}} &#8729;
-    {{ if .date}}
-      {{ (time .date) | time.Format ($block.design.date_format | default "January 2006") }}
+    {{.served}} &#8729;
+    {{ if .year}}
+      {{ (time .year) }}
     {{else}}
       {{ i18n "present" | default "Present" }}
     {{end}}

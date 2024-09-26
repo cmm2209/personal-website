@@ -137,26 +137,15 @@ awards:
     summary: |
 
 service:
-  - title: David Kraehenbuehl Prize
-    url: http://lists.societymusictheory.org/pipermail/historyoftheory-societymusictheory.org/Week-of-Mon-20240722/000106.html
-    date: '2024-07-27'
-    awarder: Journal of Music Theory
+  - role: Editorial board member
+    url: ''
+    year_start: 2021
+    year_end: ''
+    served: Indiana Theory Review ∙ 2021 – present
     icon: ''
     summary: |
-      Awarded biennially to the best article published in the *Journal of Music Theory* by a scholar in early career who is untenured at time of submission.
-  - title: Full funding to attend Digital Critical Editions workshop
-    url: https://digitallatin.org/
-    date: '2017-07-01'
-    awarder: Digital Latin Library
-    icon: ''
-    summary: |
-      
-  - title: Directors' Scholarship Fund
-    url: https://rarebookschool.org/
-    date: '2014-07-01'
-    awarder: Rare Books School
-    icon: ''
-    summary: |
+
+
 ---
 
 ## About Me
