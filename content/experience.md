@@ -22,7 +22,7 @@ sections:
     content:
       title: Awards
       username: admin
-    - block: resume-service
+  - block: resume-service
     content:
       title: Service
       username: admin    
