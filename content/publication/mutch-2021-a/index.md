@@ -1,6 +1,6 @@
 ---
-title: "`Something else is possible': transcultural collaboration as anti-apartheid
-  activism in the music of Juluka"
+title: "‘Something Else is Possible’: Transcultural Collaboration as Anti-Apartheid
+  Activism in the Music of Juluka"
 authors:
 - Caleb Mutch
 date: '2021-12-01'

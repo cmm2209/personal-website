@@ -1,5 +1,5 @@
 ---
-title: Mathematical approaches to defining the semitone in antiquity
+title: Mathematical Approaches to Defining the Semitone in Antiquity
 authors:
 - Caleb Mutch
 date: '2020-04-01'

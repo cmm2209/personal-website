@@ -137,10 +137,10 @@ awards:
     summary: |
 
 service:
-  - title: David Kraehenbuehl Prize
+  - title: Editorial Board Member
     url: ''
     date: '2024-07-27'
-    awarder: Journal of Music Theory
+    awarder: Indiana Theory Review
     icon: ''
     summary: |
 
