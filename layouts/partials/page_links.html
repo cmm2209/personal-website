@@ -137,7 +137,7 @@
 {{ end }}
 {{ with $page.Params.doi }}
 <a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
-    {{ partial "functions/get_icon" (dict "doi" "document-text" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+    {{ partial "functions/get_icon" (dict "academicons/doi" "document-text" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   DOI
 </a>
 {{ end }}
