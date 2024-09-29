@@ -8,9 +8,7 @@ eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: 
-  @type: Place
   address:
-    @type: PostalAddress
     addressLocality: Minneapolis
     addressRegion: MN
 
