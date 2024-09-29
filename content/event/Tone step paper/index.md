@@ -7,8 +7,8 @@ eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
-location: 
-  address: Minneapolis, MN
+location: Minneapolis, MN
+address: ''
 
 summary: An argument that historical tuning systems depended on contemporaneous concepts of the scale step.
 abstract: 'The relationship between the whole tone and the concept of the scale step within speculative theory played a crucial role in the sixteenth-century reconceptualization of the relative importance of the “horizontal” and the “vertical” dimensions of music. A longstanding medieval-era conflation of these two concepts had suited monophonic music, but prevented the theorizing of a consonant major third. It was only by rejecting this tradition and utilizing different sizes of scale steps, a practice which Zarlino linked to Greek Antiquity, that theorists were able to propose just intonation and to respond fully to contemporary harmonic developments, such as triadic composition.'
