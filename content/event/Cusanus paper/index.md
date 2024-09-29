@@ -2,6 +2,9 @@
 title: 'A Radical Theory: Lippius’s Misunderstood Theory of Roots'
 
 event: Music Theory Midwest annual conference
+organizer: 'Music Theory Midwest'
+eventStatus: https://schema.org/EventMovedOnline
+eventAttendanceMode: https://schema.org/OnlineEventAttendanceMode
 event_url: ''
 
 location: Online
@@ -13,7 +16,8 @@ abstract: 'Johannes Lippius is widely acclaimed as the first author to articulat
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-07-03T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+# endDate: '2020-07-03T23:59:00Z'
+
 all_day: false
 
 # Schedule page publish date (NOT talk date).

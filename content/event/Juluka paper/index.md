@@ -2,6 +2,9 @@
 title: '‘Something Else is Possible’: Transcultural Collaboration as Anti-Apartheid Activism in the Music of Juluka'
 
 event: Music Theory Society of New York State annual conference
+organizer: 'Music Theory Society of New York State'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OnlineEventAttendanceMode
 event_url: ''
 
 location: Online
@@ -13,7 +16,7 @@ abstract: 'This paper illuminates the musical activism of Juluka, a South Africa
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-07-01T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+# endDate: '2021-07-01T12:59:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

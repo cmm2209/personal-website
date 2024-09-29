@@ -2,6 +2,9 @@
 title: 'Cadence Systematized: Printz’s Doctrine of the Clausula formalis'
 
 event: Society for Music Theory annual conference
+organizer: 'Society for Music Theory'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: Charlotte, NC
@@ -18,7 +21,7 @@ abstract: 'One of W. C. Printz’s (1641-1717) most significant and idiosyncrati
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2013-10-31T00:00:00Z'
-#date_end: '2024-11-08T18:45:00Z'
+# endDate: '2013-10-31T23:59:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

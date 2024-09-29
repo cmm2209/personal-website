@@ -2,6 +2,9 @@
 title: '‘L’art ne progresse pas, mais il se transforme’: Reconsidering Teleology in Fétis’s Historiography'
 
 event: Music Theory Society of New York State annual conference
+organizer: 'Music Theory Society of New York State'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: Stony Brook, NY
@@ -13,7 +16,8 @@ abstract: 'Scholars who research F.J. Fétis and his concept of <i>tonalité</i>
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2013-04-07T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+# endDate: '2013-04-07T23:59:00Z'
+
 all_day: false
 
 # Schedule page publish date (NOT talk date).

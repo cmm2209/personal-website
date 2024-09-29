@@ -2,6 +2,9 @@
 title: 'The Triad in Dispute: Genre and Audience in the Writings of Johannes Lippius'
 
 event: Society for Music Theory annual conference
+organizer: 'Society for Music Theory'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: Arlington, VA
@@ -18,7 +21,7 @@ abstract: 'Johannes Lippius is best known for his path-breaking articulation of 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-11-02T00:00:00Z'
-#date_end: '2024-11-08T18:45:00Z'
+# endDate: '2017-11-02T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

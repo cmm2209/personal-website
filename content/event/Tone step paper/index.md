@@ -2,6 +2,9 @@
 title: 'A Major Step Forward: Changing Conceptions of Whole Tone and Scale Step in Ancient and Medieval Theory'
 
 event: Society for Music Theory annual conference
+organizer: 'Society for Music Theory'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: Minneapolis, MN
@@ -13,7 +16,7 @@ abstract: 'The relationship between the whole tone and the concept of the scale 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2011-10-28T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+# endDate: '2011-10-28T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

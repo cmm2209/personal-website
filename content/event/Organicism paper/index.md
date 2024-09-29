@@ -2,6 +2,9 @@
 title: 'Comparing Bodies: Organicism and the Rise of Romantic Formenlehre'
 
 event: Music Theory Midwest annual conference
+organizer: 'Music Theory Midwest'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
 
 location: Rochester, MI.
@@ -18,7 +21,7 @@ abstract: 'The rise of organicist metaphors and the development of formal theori
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2015-05-08T00:00:00Z'
-#date_end: '2024-11-08T18:45:00Z'
+# endDate: '2015-05-08T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

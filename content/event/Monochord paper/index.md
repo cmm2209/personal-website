@@ -2,7 +2,10 @@
 title: 'Against the Monochord: Numbers, String Lengths, and the History of Music Theory'
 
 event: American Musicological Society annual conference
-event_url: https://cdn.ymaws.com/ams-net.site-ym.com/resource/resmgr/files/virtual2020/final_guides/ams-smt_program-guide_2020-1.pdf
+organizer: 'American Musicological Society'
+eventStatus: https://schema.org/EventMovedOnline
+eventAttendanceMode: https://schema.org/OnlineEventAttendanceMode
+event_url: ''
 
 location: Online
 address: ''
@@ -13,7 +16,7 @@ abstract: 'This paper argues that the importance of one instrument, the monochor
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-11-15T12:00:00Z'
-# date_end: '2021-08-31T18:45:00Z'
+# endDate: '2020-11-15T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

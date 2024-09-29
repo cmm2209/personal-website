@@ -2,6 +2,9 @@
 title: 'Enter the Prechorus: Producing Intensification in Two Recent Taylor Swift Songs'
 
 event: Society for Music Theory annual conference
+organizer: 'Society for Music Theory'
+eventStatus: https://schema.org/EventScheduled
+eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: https://societymusictheory.org/meetings/smt-2024
 
 location: Hyatt Regency Jacksonville Riverfront
