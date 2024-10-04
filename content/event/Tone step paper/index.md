@@ -16,8 +16,8 @@ abstract: 'The relationship between the whole tone and the concept of the scale 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2011-10-28T12:00:00Z'
-# endDate: '2011-10-28T12:00:00Z'
-all_day: false
+endDate: '2011-10-28T12:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

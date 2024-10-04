@@ -16,9 +16,8 @@ abstract: 'Scholars who research F.J. Fétis and his concept of <i>tonalité</i>
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2013-04-07T12:00:00Z'
-# endDate: '2013-04-07T23:59:00Z'
-
-all_day: false
+endDate: '2013-04-07T23:59:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

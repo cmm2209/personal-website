@@ -16,8 +16,8 @@ abstract: 'This paper argues that the importance of one instrument, the monochor
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-11-15T12:00:00Z'
-# endDate: '2020-11-15T23:00:00Z'
-all_day: false
+endDate: '2020-11-15T23:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

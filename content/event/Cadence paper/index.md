@@ -20,9 +20,9 @@ abstract: 'One of W. C. Printz’s (1641-1717) most significant and idiosyncrati
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2013-10-31T00:00:00Z'
-# endDate: '2013-10-31T23:59:00Z'
-all_day: false
+date: '2013-10-31'
+endDate: '2013-10-31'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2013-10-31T00:00:00Z'
