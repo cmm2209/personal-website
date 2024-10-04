@@ -6,9 +6,12 @@ organizer: 'Music Theory Society of New York State'
 eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OnlineEventAttendanceMode
 event_url: ''
+offers: 
+  offerCount: 1
 
-location: Online
-address: ''
+location: 
+  address: Online
+place: Online
 
 summary: An analysis of songs by the pioneering Apartheid-era South African band Juluka.
 abstract: 'This paper illuminates the musical activism of Juluka, a South African band active in the late 1970s through the mid-eighties who challenged apartheid ideology, not only through their interracial membership, but also by creating music whose artistic richness belies the principles of cultural segregation. Yet despite one of the band’s founders calling explicit attention to their blending of English lyrics and Western melodies with Zulu musical structures, scholarly treatments of these blendings have been superficial and dismissive. By contrast, I analyze two of their songs, focusing on intersections between Western popular music and a Zulu song genre called maskanda. By revealing the depth of the interplay of Western- and Zulu-symbolizing elements in aspects of their meter, text setting, and form, I demonstrate that the artistic fruitfulness of the band’s collaboration was a powerful rebuke to the government’s apartheid ideology, which sought to segregate not just people, but even their artistic expressions.'

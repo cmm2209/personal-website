@@ -6,14 +6,12 @@ organizer: 'Music Theory Midwest'
 eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
+offers: 
+  offerCount: 1
 
-location: Rochester, MI.
-# address:
- # street: 225 E Coastline Dr
- # city: Jacksonville
- # region: FL
- # postcode: '32202'
- # country: United States
+location: 
+  address: Rochester, MI.
+place: Rochester, MI.
 
 summary: An uncovering of the parallels between Romantic-era biological science and musical form.
 abstract: 'The rise of organicist metaphors and the development of formal theories are two striking early-nineteenth century developments, and although they have received scholarly attention, the significance of their intermingling has been overlooked. By examining the writings of A.B. Marx and his predecessors, I find that methods of considering musical form have important parallels with developments in biology, parallels which newly illuminate how Romantic _Formenlehre_ arose from a reconceptualization of animal and musical bodies.'

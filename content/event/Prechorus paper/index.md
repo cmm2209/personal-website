@@ -6,8 +6,12 @@ organizer: 'Society for Music Theory'
 eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: https://societymusictheory.org/meetings/smt-2024
+offers: 
+  offerCount: 1
 
-location: Hyatt Regency Jacksonville Riverfront
+location: 
+  address: Hyatt Regency Jacksonville Riverfront
+place: Hyatt Regency Jacksonville Riverfront
 address:
   street: 225 E Coastline Dr
   city: Jacksonville

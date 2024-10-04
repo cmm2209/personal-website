@@ -6,14 +6,12 @@ organizer: 'Society for Music Theory'
 eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
+offers: 
+  offerCount: 1
 
-location: Charlotte, NC
-# address:
- # street: 225 E Coastline Dr
- # city: Jacksonville
- # region: FL
- # postcode: '32202'
- # country: United States
+location: 
+  address: Charlotte, NC
+place:  Charlotte, NC
 
 summary: An introduction to Printz’s fascinating, baroquely-complex theory of the cadence. 
 abstract: 'One of W. C. Printz’s (1641-1717) most significant and idiosyncratic innovations is his naming and describing of an unprecedently large number of types of cadence, or _clausula formalis_. Equally noteworthy is the way in which these various categories are logically organized. In this paper I first demonstrate the dependence of the doctrine’s categorial organization on the influential pedagogical theories of Petrus Ramus. I then survey his seventeen categories of _clausula formalis_, showing that they comprise a rich diversity of cadence types, many of which would be unthinkingly disregarded by modern theoretical judgments. The significance of this wide variety of cadences, and its accompanying range of degrees of closure, becomes apparent when I consider them in combination with the treatise’s incipient theory of form.'

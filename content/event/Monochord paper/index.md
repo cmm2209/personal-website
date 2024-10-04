@@ -6,9 +6,12 @@ organizer: 'American Musicological Society'
 eventStatus: https://schema.org/EventMovedOnline
 eventAttendanceMode: https://schema.org/OnlineEventAttendanceMode
 event_url: ''
+offers: 
+  offerCount: 1
 
-location: Online
-address: ''
+location:
+  address: Online
+place: Online
 
 summary: A riposte against the value of the monochord as an "instrument of music theory."
 abstract: 'This paper argues that the importance of one instrument, the monochord, has been inflated for generations, and that this inflation has distorted our interpretations of music theory from the premodern world. I focus on three pre-modern texts which scholars of the past two generations have misinterpreted due to monochord-fueled presumptions: Boethius’s <i>De institutione musica</i>, the anonymous <i>Alia musica</i>, and Marchetto of Padua’s <i>Lucidarium</i>. Thus, by denying the temptation to familiarize pre-modern texts by reading string lengths into their theories we are better able to understand their authors’ arguments and the multifarious roles that number and music played in their worlds.'

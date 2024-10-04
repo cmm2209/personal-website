@@ -6,14 +6,12 @@ organizer: 'Society for Music Theory'
 eventStatus: https://schema.org/EventScheduled
 eventAttendanceMode: https://schema.org/OfflineEventAttendanceMode
 event_url: ''
-
-location: Arlington, VA
-# address:
- # street: 225 E Coastline Dr
- # city: Jacksonville
- # region: FL
- # postcode: '32202'
- # country: United States
+offers: 
+  offerCount: 1
+  
+location: 
+  address: Arlington, VA
+place: Arlington, VA
 
 summary: A new reading of the role of educational institutions in the origins of the theory of the triad.
 abstract: 'Johannes Lippius is best known for his path-breaking articulation of the concept of the triad. The reception of this innovation chiefly relies upon his treatise _Synopsis novae musicae_, despite the fact that Lippius had already published many of this book’s notable points in earlier texts, which he called “disputations on music.” Yet the genre-specific peculiarities of the _disputatio_ have been overlooked. By situating his writings within the university system of the day and the formalized genres in which he wrote, this paper reveals an important instance of how music theory has been shaped by the demands of audience and genre.'
