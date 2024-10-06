@@ -8,9 +8,6 @@ publication_types:
 - article-journal
 publication: '*Journal of Music Theory*'
 doi: 10.1215/00222909-9534127
-links:
-- name: URL
-  url: https://doi.org/10.1215%2F00222909-9534127
 reading_time: false
 share: false
 award: Winner of the David Kraehenbuehl Prize 2022–23

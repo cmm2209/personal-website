@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Caleb Mutch</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17871803752010699486.png</url>
+      <title>Article-Journal</title>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>An Emendation to Pseudo-Aristotle, Problemata 19.4</title>
+      <link>http://localhost:1313/publication/mutch-2025-c/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2025-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-quantifying W. C. Printz’s Concept of Quantitas Intrinseca</title>
+      <link>http://localhost:1313/publication/mutch-2025-b/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2025-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the Triad Took (a) Root</title>
+      <link>http://localhost:1313/publication/mutch-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Something Else is Possible’: Transcultural Collaboration as Anti-Apartheid Activism in the Music of Juluka</title>
+      <link>http://localhost:1313/publication/mutch-2021-a/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canons and Contestable Cadences in Brahms′s Op. 118 No. 4</title>
+      <link>http://localhost:1313/publication/mutch-2021-b/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Approaches to Defining the Semitone in Antiquity</title>
+      <link>http://localhost:1313/publication/mutch-2020-b/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedagogy and Authority in Sixteenth-Century German Music Theory Textbooks</title>
+      <link>http://localhost:1313/publication/mutch-2020-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Triad in Dispute: Johannes Lippius, His Audiences, and the Disputatio Genre</title>
+      <link>http://localhost:1313/publication/mutch-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Formal Function of Fortspinnung</title>
+      <link>http://localhost:1313/publication/mutch-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blainville′s New Mode, or How the Plagal Cadence Came to be `Plagal&#39;</title>
+      <link>http://localhost:1313/publication/mutch-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mutch-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

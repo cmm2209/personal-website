@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses Taught | Caleb Mutch</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses Taught</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17871803752010699486.png</url>
+      <title>Courses Taught</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Theory I &amp; II</title>
+      <link>http://localhost:1313/teaching/diatonic_theory/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/diatonic_theory/</guid>
+      <description>&lt;p&gt;First two semesters of a four-semester theory survey for music majors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aural Skills II, III, &amp; IV</title>
+      <link>http://localhost:1313/teaching/aural_skills/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/aural_skills/</guid>
+      <description>&lt;p&gt;Second through fourth semesters of a four-semester aural skills survey for music majors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Renaissance Counterpoint</title>
+      <link>http://localhost:1313/teaching/counterpoint/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/counterpoint/</guid>
+      <description>&lt;p&gt;Model composition in modal polyphony&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music and Media Revolutions</title>
+      <link>http://localhost:1313/teaching/media_revolutions/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/media_revolutions/</guid>
+      <description>&lt;p&gt;Examining how developments in media technology have affected music and music theorizing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baroque and Classical Musical Form</title>
+      <link>http://localhost:1313/teaching/form/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/form/</guid>
+      <description>&lt;p&gt;Formal analysis of Classical-era music, and adaptations of those models to Baroque-era pieces&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topics in the History of Music Theory</title>
+      <link>http://localhost:1313/teaching/hot_2/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/hot_2/</guid>
+      <description>&lt;p&gt;From Zarlino through Koch&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>History of Music Theory I</title>
+      <link>http://localhost:1313/teaching/hot_1/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/hot_1/</guid>
+      <description>&lt;p&gt;From Ancient Greece through Zarlino&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Humanities</title>
+      <link>http://localhost:1313/teaching/music_humanities/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/music_humanities/</guid>
+      <description>&lt;p&gt;Introduction to music for non-music majors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graduate Theory Review</title>
+      <link>http://localhost:1313/teaching/theory_review/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/theory_review/</guid>
+      <description>&lt;p&gt;Refresher course in undergraduate-level theory for incoming masters-level students&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

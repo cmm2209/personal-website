@@ -9,9 +9,6 @@ publication_types:
 - article-journal
 publication: '*Music Theory Spectrum*'
 doi: 10.1093/mts/mtaa008
-links:
-- name: URL
-  url: https://doi.org/10.1093%2Fmts%2Fmtaa008
 reading_time: false
 share: false
 ---

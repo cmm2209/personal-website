@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate Course | Caleb Mutch</title>
+    <link>http://localhost:1313/tags/undergraduate-course/</link>
+      <atom:link href="http://localhost:1313/tags/undergraduate-course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Undergraduate Course</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17871803752010699486.png</url>
+      <title>Undergraduate Course</title>
+      <link>http://localhost:1313/tags/undergraduate-course/</link>
+    </image>
+    
+    <item>
+      <title>Theory I &amp; II</title>
+      <link>http://localhost:1313/teaching/diatonic_theory/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/diatonic_theory/</guid>
+      <description>&lt;p&gt;First two semesters of a four-semester theory survey for music majors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aural Skills II, III, &amp; IV</title>
+      <link>http://localhost:1313/teaching/aural_skills/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/aural_skills/</guid>
+      <description>&lt;p&gt;Second through fourth semesters of a four-semester aural skills survey for music majors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Humanities</title>
+      <link>http://localhost:1313/teaching/music_humanities/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/music_humanities/</guid>
+      <description>&lt;p&gt;Introduction to music for non-music majors&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

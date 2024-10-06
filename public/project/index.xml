@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Caleb Mutch</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu17871803752010699486.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>OCHRE</title>
+      <link>http://localhost:1313/project/ochre/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ochre/</guid>
+      <description>&lt;p&gt;The 
+ project is producing an anthology of history music theories from around the world. Publishing the resulting project in an open-access format is an ethical imperative for a project of this kind, and we are pleased to be pairing with the University of Chicago&amp;rsquo;s 
+.&lt;/p&gt;
+&lt;p&gt;As the Digital Director of the project, I am responsible for integrating our anthology&amp;rsquo;s contents into the University of Chicago&amp;rsquo;s 
+, whence the materials will be assembled into the final online publication. This entails handling the digitization of theoretical sources in more than fifty languages, as well as a variety of multi-media formats. I am working together with the Online Publication Service staff to develop a custom taxonomy that will structure our project&amp;rsquo;s data. We will take full advantage of OCHRE&amp;rsquo;s semi-structured graph database to richly label all the data we input, thereby allowing the anthology&amp;rsquo;s readers to access its many sources through a wide variety of browsing parameters and undertake data analysis of curated materials from around the world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phylogenetics</title>
+      <link>http://localhost:1313/project/phylogenetics/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/phylogenetics/</guid>
+      <description>&lt;p&gt;As a follow-up to my 
+, I am creating an edition of the Latin translation of the text he commented on: pseudo-Aristotle&amp;rsquo;s &lt;em&gt;Problemata&lt;/em&gt;. Since there are 50 surviving medieval manuscripts that preserve this text, traditional methods for establishing a stemma (a diagram reconstructing the manuscripts&amp;rsquo; familial relationships) are not feasible. Instead, I have quantified the manuscripts&amp;rsquo; degree of relatedness by using tools from the field of phylogenetics, which aims to reconstruct the evolutionary history of a given species.&lt;/p&gt;
+&lt;p&gt;Undertaking phylogenetic-based text criticism entails entering the textual variants found in representative passages from all 50 manuscripts into a 
+ XML document. I then use 
+, a Python package that converts TEI XML into the .nexus file format used in phylogenetics. That file is then readable by 
+, a program that conducts phylogenetic analyses according to a variety of criteria, including parsimony and likelihood. The resulting analyses can be mapped in numerous ways, such as is shown in the image above. (
+ for the full version.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A digital critical edition</title>
+      <link>http://localhost:1313/project/critical_edition/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/critical_edition/</guid>
+      <description>&lt;p&gt;The nineteenth book of pseudo-Aristotle&amp;rsquo;s &lt;em&gt;Problemata&lt;/em&gt; was the first Ancient Greek source discussing music in detail to be rediscovered in the High Medieval period, and it contains much information about musical performance practice that would have been unfamiliar to readers at the time. Pietro d&amp;rsquo;Abano&amp;rsquo;s widely read commentary on the work helped generations of readers make sense of that difficult material and even played a role in the development of the concept of harmony.&lt;/p&gt;
+&lt;p&gt;
+ of d&amp;rsquo;Abano&amp;rsquo;s commentary encodes textual variants from fifteen medieval manuscripts in 
+ XML. I have tagged each variant by type, allowing readers to filter out categories of variants and customize their viewing experience. d&amp;rsquo;Abano&amp;rsquo;s compressed references to authors and treatises have been hyper-linked to their standardized forms, and all instances of intervallic proportions and other numbers have been tagged and interpreted with TEI elements.&lt;/p&gt;
+&lt;p&gt;The digital edition, which is now under review, will be published open access, making this historically significant work easily available to all interested readers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
