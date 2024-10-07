@@ -18,6 +18,6 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid-nolinks
+      view: article-grid
       columns: 2
 ---
