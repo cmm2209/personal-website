@@ -28,15 +28,14 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
-disableKinds: rss
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
-  section: [HTML, RSS]
+  home: [HTML, headers, redirects, backlinks]
+  section: [HTML]
 imaging:
   resampleFilter: lanczos
   quality: 80
