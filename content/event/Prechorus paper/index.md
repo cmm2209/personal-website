@@ -52,7 +52,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/PrechorusPaperHandout.pdf'
 url_slides: ''
 url_video: ''
 
