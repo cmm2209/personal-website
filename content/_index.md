@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Conference Presentations
       filters:
         folders:
           - event
