@@ -19,7 +19,7 @@ abstract: 'This paper examines two recent Swift songs, “the lakes” (2020) an
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-08T18:15:00Z'
-date_end: '2024-11-08T18:45:00Z'
+endDate: '2024-11-08T18:45:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
