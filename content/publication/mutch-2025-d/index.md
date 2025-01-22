@@ -2,7 +2,7 @@
 title: 'Early Modern Music Cognition: The Case of W. C. Printz'
 authors:
 - Caleb Mutch
-date: '2025-01-01'
+date: 'forthcoming'
 publishDate: '2024-09-25T18:48:38.223804Z'
 publication_types:
 - article-journal
