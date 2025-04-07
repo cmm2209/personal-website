@@ -91,7 +91,7 @@ education:
 
 work:
   - position: Max Planck Institute for Empirical Aesthetics
-    company_name: Research Scientist, Postdoctoral Research Fellow
+    company_name: Postdoctoral Researcher
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
     year_start: 2020
