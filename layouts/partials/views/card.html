@@ -28,7 +28,7 @@
         {{ if $item.Params.event }}
            {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
         {{ else }}
-           {{ $item.Params.publication | plainify | htmlUnescape | chomp -}}
+           {{ ($item.Params.publication | default $item.Summary) | plainify | htmlUnescape | chomp -}}
         {{ end }}
       </p>
     </div>
