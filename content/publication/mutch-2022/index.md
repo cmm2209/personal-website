@@ -6,7 +6,7 @@ date: '2022-04-01'
 publishDate: '2024-09-25T18:45:19.030548Z'
 publication_types:
 - article-journal
-publication: '*Journal of Music Theory*'
+publication: '*Journal of Music Theory* 66, no. 1 (2022): 43–62'
 doi: 10.1215/00222909-9534127
 reading_time: false
 share: false
