@@ -3,9 +3,9 @@ title: 'Against the Monochord: Numbers, String Lengths, and the History of Music
 authors:
 - Caleb Mutch
 date: '2026-01-01'
-publishDate: '2025-06-16T18:48:38.223804Z'
+publishDate: '2025-06-15T18:48:38.223804Z'
 publication_types:
-- article-journal
+- article-journals
 publication: '*Music Theory Online*'
 url_pdf: false
 reading_time: false
