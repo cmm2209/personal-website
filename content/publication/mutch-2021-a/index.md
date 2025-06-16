@@ -7,7 +7,7 @@ date: '2021-12-01'
 publishDate: '2024-09-25T18:48:38.236352Z'
 publication_types:
 - article-journal
-publication: '*Popular Music*'
+publication: '*Popular Music* 40, no. 3–4 (2021): 450–69'
 doi: 10.1017/s026114302100043x
 url_pdf: uploads/Mutch-Juluka-PM.pdf
 reading_time: false

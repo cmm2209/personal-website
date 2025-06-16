@@ -7,7 +7,7 @@ date: '2020-01-01'
 publishDate: '2024-09-25T18:48:38.249764Z'
 publication_types:
 - article-journal
-publication: '*Music Theory Spectrum*'
+publication: '*Music Theory Spectrum* 42, no. 2 (Fall 2020): 247–59'
 doi: 10.1093/mts/mtaa008
 reading_time: false
 share: false

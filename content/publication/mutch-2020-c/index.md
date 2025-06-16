@@ -6,7 +6,7 @@ date: '2020-01-01'
 publishDate: '2024-09-25T18:48:38.262125Z'
 publication_types:
 - article-journal
-publication: '*Theoria - Historical Aspects of Music Theory*'
+publication: '*Theoria - Historical Aspects of Music Theory* 26 (2020): 25–54'
 url_pdf: uploads/Mutch-Pedagogy-Authority.pdf
 links:
 - name: URL

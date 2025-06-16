@@ -6,7 +6,7 @@ date: '2021-04-01'
 publishDate: '2024-09-25T18:48:38.242742Z'
 publication_types:
 - article-journal
-publication: '*Music Theory and Analysis (MTA)*'
+publication: '*Music Theory and Analysis (MTA)* 8, no. 1 (2021): 143–52'
 doi: 10.11116/mta.8.1.7
 url_pdf: uploads/Mutch-Contestable-Cadences.pdf
 reading_time: false

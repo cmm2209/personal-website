@@ -6,7 +6,7 @@ date: '2015-02-01'
 publishDate: '2024-09-25T18:45:19.056647Z'
 publication_types:
 - article-journal
-publication: '*Eighteenth Century Music*'
+publication: '*Eighteenth Century Music* 12, no. 1 (March 2015): 69–90'
 doi: 10.1017/s1478570614000359
 reading_time: false
 share: false
