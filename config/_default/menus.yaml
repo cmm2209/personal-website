@@ -11,7 +11,7 @@ main:
     url: publication/
     weight: 11
   - name: Talks
-    url: event/
+    url: talk/
     weight: 12
   - name: Experience
     url: experience/

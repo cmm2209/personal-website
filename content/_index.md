@@ -60,7 +60,7 @@ sections:
       title: Conference Presentations
       filters:
         folders:
-          - event
+          - talk
     design:
       view: article-grid
       columns: 1
