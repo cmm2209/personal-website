@@ -2,11 +2,11 @@
 title: An Emendation to Pseudo-Aristotle, Problemata 19.4
 authors:
 - Caleb Mutch
-date: '2025-01-01'
-publishDate: '2024-09-25T18:48:38.230163Z'
+date: '2024-12-01'
+publishDate: '2024-12-25T18:48:38.230163Z'
 publication_types:
 - article-journal
-publication: '*The Classical Quarterly*, First View'
+publication: '*The Classical Quarterly* 74, no. 2 (2024): 784–87'
 doi: https://doi.org/10.1017/S0009838824000843
 reading_time: false
 share: false
