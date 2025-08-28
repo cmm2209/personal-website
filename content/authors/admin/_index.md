@@ -116,7 +116,7 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: David Kraehenbuehl Prize
-    url: http://lists.societymusictheory.org/pipermail/historyoftheory-societymusictheory.org/Week-of-Mon-20240722/000106.html
+    url: https://doi.org/10.1215/00222909-11595282
     date: '2024-07-27'
     awarder: Journal of Music Theory
     icon: ''
