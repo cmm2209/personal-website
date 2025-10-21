@@ -143,6 +143,13 @@ service:
     awarder: ''
     icon: ''
     summary: |
+      Music Theory Online ∙ 2025 – Present
+  - title: Editorial Board Member
+    url: ''
+    date: '2024-09-26'
+    awarder: ''
+    icon: ''
+    summary: |
       Indiana Theory Review ∙ 2021 – Present
   - title: Manuscript Reviewer
     url: ''
