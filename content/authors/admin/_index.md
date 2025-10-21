@@ -137,13 +137,6 @@ awards:
     summary: |
 
 service:
- - title: Editorial Board Member
-    url: ''
-    date: '2025-09-26'
-    awarder: ''
-    icon: ''
-    summary: |
-      Music Theory Online ∙ 2025 – Present
   - title: Editorial Board Member
     url: ''
     date: '2024-09-26'
