@@ -24,14 +24,14 @@ role: Music Theorist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Max Planck Institute for Empirical Aesthetics
-    url: https://www.aesthetics.mpg.de/en/
+  - name: University of Freiburg 
+    url: 'https://uni-freiburg.de/en/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
-    url: 'mailto:caleb.mutch@ae.mpg.de'
+    url: 'mailto:caleb.mutch@germanistik.uni-freiburg.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/cmm2209
@@ -90,12 +90,18 @@ education:
     #  Graduated at top of class  
 
 work:
+  - position: University of Freiburg
+    company_name: Postdoctoral Researcher
+    company_url: 'https://uni-freiburg.de/en/'
+    company_logo: ''
+    year_start: 2026
+    year_end: ''
   - position: Max Planck Institute for Empirical Aesthetics
     company_name: Postdoctoral Researcher
     company_url: 'https://www.aesthetics.mpg.de/en/'
     company_logo: ''
     year_start: 2020
-    year_end: ''
+    year_end: 2025
   - position: Jacobs School of Music, Indiana University
     company_name: Visiting Assistant Professor, Postdoctoral Resident Scholar
     company_url: 'https://music.indiana.edu/index.html'
@@ -198,4 +204,4 @@ service:
 
 ## About Me
 
-Caleb Mutch is a Research Scientist at the Max Planck Institute for Empirical Aesthetics. His work focuses on the overlooked histories of fundamental musical concepts such as the cadence, the triad, and form. This research area is complemented by secondary interests in global pop music analysis and in the Digital Humanities.
+Caleb Mutch is a Postdoctoral Researcher at the University of Freiburg. His work focuses on the overlooked histories of fundamental musical concepts such as the cadence, the triad, and form. This research area is complemented by secondary interests in global pop music analysis and in the Digital Humanities.
