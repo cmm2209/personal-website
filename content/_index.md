@@ -35,9 +35,9 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I'm a music theorist working at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. 
+        I'm a music theorist working at the University of Freiburg in Germany. 
         
-        I study the history of musical thought, focusing on the overlooked histories of musical concepts like the cadence, the triad, and form. My work in textual criticism relies heavily on Digital Humanities approaches to analyze and represent manuscripts, and I am the Digital Director of <a href="https://neubauercollegium.uchicago.edu/research/thinking-music">Thinking Music: Global Sources for the History of Music Theory</a> (under contract with the University of Chicago's <a href="https://onlinepublications.uchicago.edu/">Online Publication Service</a>).
+        I study the history of musical thought, focusing on the overlooked histories of musical concepts like the cadence, the triad, and form. My work in textual criticism relies heavily on Digital Humanities approaches to analyze and represent manuscripts, and I am the Digital Director of <a href="https://neubauercollegium.uchicago.edu/research/thinking-music">Thinking Music: Global Sources for the History of Music Theory</a> (under contract with the University of Chicago's <a href="https://corpus.uchicago.edu/">Chicago Online Research and Publication Service</a>).
 
         Music analysis is another important area of my research. I draw upon a range of analytic methodologies to study popular music from South Africa and the U.S., and I have also published form-functional and structural analyses of European art music from the eighteenth and nineteenth centuries.
 
