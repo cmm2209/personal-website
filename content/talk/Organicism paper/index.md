@@ -37,7 +37,6 @@ tags: []
 featured: false
 
 image:
-  caption: ''
   focal_point: Center
 
 #links:

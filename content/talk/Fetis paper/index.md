@@ -37,7 +37,6 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Gallica**](https://gallica.bnf.fr/ark:/12148/btv1b84179634)'
   focal_point: Center
 
 #links:

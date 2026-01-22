@@ -37,7 +37,6 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Shutterstock**](https://www.shutterstock.com/editorial/image-editorial/pop-group-juluka-l-r-gary-van-zyl-5812800a)'
   focal_point: Right
 
 #links:

@@ -37,7 +37,6 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Wikimedia**](https://commons.wikimedia.org/wiki/File:Gaffuri1.jpg)'
   focal_point: Center
 
 #links:
