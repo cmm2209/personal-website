@@ -6,7 +6,7 @@ date: '2024-12-01'
 publishDate: '2024-12-25T18:48:38.230163Z'
 publication_types:
 - article-journal
-publication: '*The Classical Quarterly* 74, no. 2 (2024): 784–87'
+publication: '*The Classical Quarterly* 74, no. 2 (December 2024): 784–87'
 doi: https://doi.org/10.1017/S0009838824000843
 url_pdf: uploads/Mutch-Problemata-Emendation.pdf
 reading_time: false

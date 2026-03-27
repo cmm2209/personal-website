@@ -3,7 +3,7 @@ title: 'The Triad in Dispute: Johannes Lippius, His Audiences, and the Disputati
   Genre'
 authors:
 - Caleb Mutch
-date: '2020-01-01'
+date: '2020-10-01'
 publishDate: '2024-09-25T18:48:38.249764Z'
 publication_types:
 - article-journal

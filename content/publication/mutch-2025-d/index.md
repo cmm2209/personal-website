@@ -2,11 +2,11 @@
 title: 'Against the Monochord: Numbers, String Lengths, and the History of Music Theory'
 authors:
 - Caleb Mutch
-date: '2025-11-01'
+date: '2025-12-01'
 publishDate: '2025-06-15T18:48:38.223804Z'
 publication_types:
 - article-journal
-publication: '*Music Theory Online*, 31, no. 4 (November 2025)'
+publication: '*Music Theory Online*, 31, no. 4 (December 2025)'
 doi: 10.30535/mto.31.4.6
 url_pdf: false
 reading_time: false

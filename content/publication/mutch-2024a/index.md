@@ -6,7 +6,7 @@ date: '2024-10-01'
 publishDate: '2024-10-01T18:48:38.223804Z'
 publication_types:
 - article-journal
-publication: '*Music Theory and Analysis (MTA)* 11, no. 2 (2024): 172–95'
+publication: '*Music Theory and Analysis (MTA)* 11, no. 2 (October 2024): 172–95'
 doi: https://doi.org/10.11116/MTA.11.2.2
 url_pdf: uploads/Mutch-Internal-Quantity.pdf
 reading_time: false
