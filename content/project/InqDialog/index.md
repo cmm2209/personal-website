@@ -1,6 +1,6 @@
 ---
 title: 'InqDialog'
-date: 2024-07-01
+date: 2026-05-01
 external_link: ''
 tags: []
 reading_time: false
