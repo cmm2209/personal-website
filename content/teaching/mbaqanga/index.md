@@ -3,11 +3,9 @@ title: 'Mbaqanga in the Classroom: Teaching Harmonic Function through South Afri
 
 summary: Teaching resource for first-semester music theory instruction
 date: 2026-09-01
-type: docs
-math: false
-tags:
-  - Teaching Resources
-image:
-  caption: 'The Mahotella Queens'
+external_link: ''
+tags: []
+reading_time: false
+share: false
 ---
 Teaching resource for first-semester music theory instruction
