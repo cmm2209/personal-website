@@ -7,7 +7,7 @@ cascade:
   - _target:
       kind: page
     params:
-      show_breadcrumb: true
+      show_breadcrumb: false
 
 sections:
   - block: collection
