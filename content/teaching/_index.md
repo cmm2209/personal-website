@@ -1,5 +1,5 @@
 ---
-title: Courses Taught
+title: Teaching Experience and Resources
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Courses Taught
+      title: Teaching Experience and Resources
       filters:
         folders:
           - teaching
