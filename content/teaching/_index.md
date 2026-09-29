@@ -1,5 +1,5 @@
 ---
-title: Teaching Experience and Resources
+title: Courses Taught
 summary: My courses
 type: landing
 
@@ -7,13 +7,13 @@ cascade:
   - _target:
       kind: page
     params:
-      show_breadcrumb: false
+      show_breadcrumb: true
 
 sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching Experience and Resources
+      title: Courses Taught
       filters:
         folders:
           - teaching
